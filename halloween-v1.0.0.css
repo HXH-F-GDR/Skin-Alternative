@@ -1,0 +1,653 @@
+.bodyhalloween {background-color: #262A20; background-image:url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/Sfondo-hxh-Halloween.png'); color: var(--hms);}
+.bodyhalloween a {color: var(--hms)}
+.bodyhalloween .nav {color:var(--hacc)}
+.bodyhalloween .nav a {color:var(--hac)}
+.bodyhalloween .nav span{color:var(--hacc)!important}
+.bodyhalloween .footer a {color: var(--hacc)}
+.bodyhalloween .footer {color: var(--hasc)}
+.bodyhalloween .container {border-color: var(--ham); box-shadow: 0 0 23px var(--hac); background-color: var(--hms)}
+.bodyhalloween .menuwrap .left > .menu:nth-child(1) > a {background: var(--hac); border-color: var(--hms)}
+.bodyhalloween .menuwrap .left >.menu:nth-child(2) > a, .bodyhalloween .menuwrap .left >.menu:nth-child(3) > a, .bodyhalloween .menuwrap .left >.menu:nth-child(4) > a, .bodyhalloween .menuwrap .left >.menu:nth-child(5) > a, .bodyhalloween .menuwrap .left >.menu:nth-child(6) > a {background: var(--hmm); border-color: var(--hms)}
+.bodyhalloween .menuwrap {background: var(--ham); background: linear-gradient(180deg, var(--ham) 0%, var(--hac) 100%); border-color: var(--hmm)}
+.bodyhalloween .menuwrap li {color: var(--hms)}
+.bodyhalloween .menuwrap a {margin: 3px; font-size: 14px; color: var(--hac); padding: 0 12px}
+.bodyhalloween .menuwrap em {color: var(--hac); background: var(--hms); border-color: var(--hac)}
+.bodyhalloween .menuwrap .nick {color: var(--hmm)}
+.bodyhalloween .menuwrap .avatar {background-color: var(--hmm); border-color: var(--hmm)}
+.bodyhalloween .menu:hover .avatar {background-color: var(--hmm); border-color: var(--hmm)}
+.bodyhalloween .menu > a:hover, .bodyhalloween .menu:hover > a {color: var(--hacc)}
+.bodyhalloween .menu ul {background: var(--hac); border-color: var(--hmm)}
+.bodyhalloween .menu li {border-color: var(--hmm)}
+.bodyhalloween .menu li strong {color: var(--hms)!important}
+.bodyhalloween .menu li a {color: var(--hms) !important}
+.bodyhalloween .menu li a:hover {background: var(--ham); color: var(--hacc)!important}
+.bodyhalloween .left .menu ul ul {background: var(--hac); border-color: var(--hmm);border-radius:10px}
+.bodyhalloween .menuwrap .search input {background: var(--hacc) url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/lente-cerca.png') no-repeat 55% 50%; border-color: var(--hmm)}
+.bodyhalloween .menuwrap .search input:hover {background-color: var(--hacc)}
+.bodyhalloween .menuwrap .search input:focus {background-color: var(--hacc)}
+.bodyhalloween .menuwrap .left > .menu:nth-child(2) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/hl2.png) left center no-repeat!important}
+.bodyhalloween .menuwrap .left > .menu:nth-child(3) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/hl3.png) left center no-repeat!important}
+.bodyhalloween .menuwrap .left > .menu:nth-child(4) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/hl4.png) left center no-repeat!important}
+.bodyhalloween .menuwrap .left > .menu:nth-child(5) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/hl5.png) left center no-repeat!important}
+.bodyhalloween .menuwrap .left > .menu:nth-child(6) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/hl6.png) left center no-repeat!important}
+.bodyhalloween .menuwrap .right > .menu:nth-child(1) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/hr1.png) left center no-repeat!important}
+.bodyhalloween .menuwrap .right > .menu:nth-child(2) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/hr2.png) left center no-repeat!important}
+.bodyhalloween .menuwrap .right > .menu:nth-child(3) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/hr3.png) left center no-repeat!important}
+.bodyhalloween .menuwrap .right > .menu:nth-child(4) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/hr4.png) left center no-repeat!important}
+/* Echo Slider */
+.bodyhalloween .echo-section.echo-ongame {background: var(--ham) !important}
+.bodyhalloween .echo-section.echo-offgame {background: var(--hacc) !important}
+.bodyhalloween .echo-section.echo-extra {background: var(--hac) !important}
+.bodyhalloween #echo-slider {background-color: var(--hms)}
+/* Border con pseudo-elemento */
+.bodyhalloween #echo-slider::before {content: ''; border: 2px solid var(--ham)}
+.bodyhalloween .echo-item {background-image:url('https://www.transparenttextures.com/patterns/gplay.png')}
+/* SEZIONE Topics */
+.bodyhalloween .echo-section {background: var(--hacc); color: var(--hms)}
+.bodyhalloween .echo-avatar {background-color: var(--hacc); border: 3px solid var(--ham)}
+.bodyhalloween .echo-author {color: var(--hacc); background: var(--hms)}
+.bodyhalloween .echo-action {color: var(--hacc)}
+.bodyhalloween .echo-topic {color: var(--hacc); background: var(--hms)}
+.bodyhalloween .echo-time {color: var(--hacc)}
+.bodyhalloween .echo-hour, .bodyhalloween .echo-date {color: var(--hacc)}
+.bodyhalloween .echo-loading {color: var(--hacc)}
+.bodyhalloween #echo-slider.echo-expanded .echo-item {border-bottom: 2px solid var(--ham)}
+/* FRECCE */
+.bodyhalloween .echo-btn {background: rgba(182, 87, 24, 0.7); color: #FFFFFF}
+.bodyhalloween .echo-btn:hover {background: rgba(182, 87, 24, 0.9)}
+
+
+.bodyhalloween .tabella-home {border-color: var(--ham); color:var(--hms); box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3), inset 0 0 0 1px rgba(255, 255, 255, 0.1); background:var(--hms)}
+.bodyhalloween .tabella-fondo {background:var(--hms)}
+.bodyhalloween .tabella-home td {border-color: var(--ham)}
+.bodyhalloween .tabella-home th {border-color: var(--hms)}
+.bodyhalloween .titolo {color:var(--hacc); background:linear-gradient(120deg, var(--hms) 0%, var(--hmm) 50%, var(--hms) 100%); text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3), 0 0 20px var(--hacc)}
+.bodyhalloween .titolo::after {background:linear-gradient(90deg, transparent, var(--hac), transparent)}
+.bodyhalloween .titoletto-tabella, .bodyhalloween .titoletto-gdr {color:var(--hmm); background:linear-gradient(135deg, var(--hac) 0%, var(--hacc) 100%); text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3), 0 0 10px var(--hmm); border-bottom-color: var(--ham); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2)}
+.bodyhalloween .box1 img, .bodyhalloween .box2 img {border-color: var(--ham)!important; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3), inset 0 0 0 1px rgba(255, 255, 255, 0.2); filter:brightness(0.95)}
+.bodyhalloween .box3 img, .bodyhalloween .box4 img, .bodyhalloween .box5 img, .bodyhalloween .box6 img {border-color: var(--ham); box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); filter:brightness(0.95)}
+.bodyhalloween .box1 img:hover, .bodyhalloween .box2 img:hover, .bodyhalloween .box3 img:hover, .bodyhalloween .box4 img:hover, .bodyhalloween .box5 img:hover, .bodyhalloween .box6 img:hover {border-color:var(--hacc)!important; box-shadow: 0 6px 20px rgba(207, 146, 105, 0.4), inset 0 0 0 1px rgba(255, 255, 255, 0.4), 0 0 15px var(--hacc); filter:brightness(1.05)}
+.bodyhalloween .descrizione, .bodyhalloween .pilot, .bodyhalloween .copyright {color:var(--hacc); background:linear-gradient(135deg, rgba(67, 40, 26, 0.3) 0%, rgba(67, 40, 26, 0.3) 100%); box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.2); text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5)}
+.bodyhalloween .affiliati, .bodyhalloween .gemellati, .bodyhalloween .attivita-gdr {color:var(--hacc)}
+.bodyhalloween .community {color:var(--bianco); background:linear-gradient(135deg, rgba(67, 40, 26, 0.3) 0%, rgba(67, 40, 26, 0.3) 100%); box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.2); text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5)}
+.bodyhalloween .box3 {border-left-color: var(--ham)!important}
+.bodyhalloween .box3 a {color:var(--hacc)}
+.bodyhalloween .box6 {color:var(--hacc)}
+.bodyhalloween .titolonewsboard {background:linear-gradient(135deg, var(--hac) 0%, var(--hacc) 50%, var(--hac) 100%); color:var(--hms); text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5), 0 0 15px var(--hacc); box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.3)}
+.bodyhalloween .titolonewsboard::before {background:repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(0, 0, 0, 0.1) 10px, rgba(0, 0, 0, 0.2) 11px)}
+.bodyhalloween .hb-container .hb-avatar {border-color: var(--hmm); background: #0000!important; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2)}
+.bodyhalloween .hb-container .hb-avatar:hover {box-shadow: 0 2px 10px rgba(59, 134, 134, 0.4)}
+.bodyhalloween .hb-container .hb-bbcode-trigger, .bodyhalloween .hb-container .hb-send-btn, .bodyhalloween .hb-container .hb-cancel-btn {background-color: var(--hacc)!important; color: var(--hmm)!important; border-color: var(--ham)!important; filter: drop-shadow(2px 4px 0 rgba(0, 0, 0, 0.3))}
+.bodyhalloween .hb-emoticons-trigger {background:transparent!important}
+.bodyhalloween .hb-container .hb-quote-ref {background-color: var(--hmm)!important}
+.bodyhalloween .hb-container .hb-banner--info {background: var(--hacc)!important; border-color: var(--hmm)!important; color: var(--hmm)!important}
+.bodyhalloween .hb-container .hb-banner-content:before {color:var(--hmm)}
+.bodyhalloween .hb-container .hb-banner--info a {color:var(--hms)!important}
+.bodyhalloween .hb-container .hb-onlines {background:var(--hac); border-color: var(--hmm)!important}
+.bodyhalloween .hb-container .hb-stacked-avatars .hb-stacked-avatar {border-color: var(--hmm)!important}
+.bodyhalloween .hb-text-content {color:var(--hms)!important}
+.bodyhalloween .hb-text-content a {color:var(--hms)}
+.bodyhalloween .hb-container .hb-spoiler {background: var(--sette)!important}
+.bodyhalloween .hb-message:nth-child(odd) {color: var(--uno); border-color: var(--hmm); background: var(--hacc)}
+.bodyhalloween .hb-message:nth-child(even) {color: var(--uno); border-color: var(--hmm); background: var(--hacc)}
+.bodyhalloween .hb-container .hb-loader-wrapper .loader-animation:before, .bodyhalloween .hb-container .hb-loader-wrapper .loader-animation:after {background-color: var(--hms)!important}
+.bodyhalloween .gdr-on {border-right-color: var(--ham)!important; background:linear-gradient(135deg, rgba(255, 255, 255, 0.1) 0%, rgba(67, 40, 26, 0.05) 100%); box-shadow:inset 0 0 10px rgba(0, 0, 0, 0.1)}
+.bodyhalloween .gdr-off {background:linear-gradient(135deg, rgba(255, 255, 255, 0.1) 0%, rgba(67, 40, 26, 0.05) 100%); box-shadow:inset 0 0 10px rgba(0, 0, 0, 0.1)}
+.bodyhalloween .t-card {background: linear-gradient(135deg, var(--hms) 0%, var(--hmm) 50%, var(--hmm) 100%); outline-color: var(--hacc); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3), inset 0 0 0 1px rgba(67, 40, 26, 0.3)}
+.bodyhalloween .t-card::before {background-image: radial-gradient(circle, rgba(207, 146, 105, 0.15) 1px, transparent 1px)}
+.bodyhalloween .t-inner_part .t-img {box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2); border-color: var(--hac); outline-color: var(--hacc)}
+.bodyhalloween .t-content .t-title {color: var(--hac)}
+.bodyhalloween .t-content .t-text {color: var(--hacc)}
+.bodyhalloween .t-content button {color: var(--hms); background: var(--hacc)}
+.bodyhalloween .t-content button:hover {background: var(--hac); color: var(--hms)}
+.bodyhalloween .t-slider .t-slide {background: var(--hacc)}
+.bodyhalloween .t-slider .t-slide:before {background: var(--ham)}
+.bodyhalloween .bottone-figo {color: var(--hacc)!important; border-color: var(--ham); background: linear-gradient(135deg, var(--hms) 0%, var(--hms) 50%, var(--hmm) 100%)}
+.bodyhalloween .bottone-figo::before {background-color: var(--ham)}
+.bodyhalloween .bottone-figo1 {color: var(--hacc)!important; border-color: var(--ham); background: linear-gradient(135deg, var(--hmm) 0%, var(--hms) 50%, var(--hms) 100%)}
+.bodyhalloween .bottone-figo1::before {background-color: var(--ham)}
+.bodyhalloween .ultimitopic td, .bodyhalloween .tabella-tf td {background:linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, rgba(207, 146, 105, 0.05) 100%)}
+.bodyhalloween .no-topforum-message {color: var(--hacc); background: linear-gradient(135deg, var(--hms) 0%, var(--hmm) 50%, var(--hmm) 100%); outline-color: var(--ham); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3), inset 0 0 0 1px rgba(182, 87, 24, 1); text-shadow: 0 0 10px rgba(207, 146, 105, 1)}
+.bodyhalloween .no-topforum-message::before {background-image: radial-gradient(circle, rgba(207, 146, 105, 0.15) 1px, transparent 1px)}
+.bodyhalloween .no-topforum-message::after {color: var(--hacc); text-shadow: 0 0 8px var(--hacc)}
+.bodyhalloween .topbutton .forminput {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/topforum-halloween.png) no-repeat!important; box-shadow: none !important}
+.bodyhalloween .chocorobot img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/kofi-halloween.png')}
+.bodyhalloween .disclaimer-affigeme {color:var(--hacc); background:linear-gradient(120deg, var(--hms) 0%, var(--hmm) 50%, var(--hms) 100%); text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3), 0 0 20px var(--hacc); border-color: var(--hacc)}
+.bodyhalloween .nessunocit, .bodyhalloween #team-zone .team-zone-title {color:var(--hacc); background:linear-gradient(120deg, var(--hms) 0%, var(--hmm) 50%, var(--hms) 100%)!important; text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3), 0 0 20px var(--hacc); border-color: var(--ham)}
+
+.bodyhalloween .tag a {color: var(--hmm)}
+.bodyhalloween .tag .mainbg {background-color: var(--ham); border-color: var(--hmm)}
+.bodyhalloween .tag .list {border-color: var(--hac)}
+.bodyhalloween .tag .when, .bodyhalloween .hb-time {color: var(--hms); background: var(--hac); border-color: var(--hmm); filter: drop-shadow(2px 2px 0 rgba(0, 0, 0, 0.3))}
+.bodyhalloween .tag a b {color: var(--hms)}
+.bodyhalloween .tag li:nth-child(odd) {color: var(--hms); border-color: var(--hmm); background: var(--hacc)!important}
+.bodyhalloween .tag li:nth-child(even) {color: var(--hms); border-color: var(--hmm); background: var(--hacc)!important}
+.bodyhalloween .tag .ww {background:var(--hmm)}
+.bodyhalloween .tag .textinput {background: var(--hacc)!important; color: #000!important; border-color: var(--ham)!important; filter: drop-shadow(4px 4px 0 rgba(0, 0, 0, 0.3)); box-shadow:none}
+.bodyhalloween .tag .codebuttons {background-color: var(--hacc); color: var(--hmm); border-color: var(--ham); filter: drop-shadow(2px 4px 0 rgba(0, 0, 0, 0.3)); box-shadow:none}
+.bodyhalloween .tag .codebuttons:hover {border-color: var(--ham); background-color: var(--hacc)}
+.bodyhalloween .ffav_tag img {border-color: var(--hmm); background: #0000}
+.bodyhalloween .ffav_tag {border: none!important; background: #0000!important}
+
+.bodyhalloween #gdr-btn {border-color: var(--ham)}
+.bodyhalloween #gdr-btn:hover {border-color: var(--hacc)}
+.bodyhalloween #gdr-btn:hover .gdr-btn-img {filter: saturate(0.8) brightness(1.0)}
+.bodyhalloween #gdr-btn::before, .bodyhalloween #gdr-btn::after, .bodyhalloween #gdr-btn .gdr-btn-cbr, .bodyhalloween #gdr-btn .gdr-btn-cbl {border-color: var(--ham)}
+.bodyhalloween #gdr-btn:hover::before, .bodyhalloween #gdr-btn:hover::after, .bodyhalloween #gdr-btn:hover .gdr-btn-cbr, .bodyhalloween #gdr-btn:hover .gdr-btn-cbl {border-color: var(--hacc)}
+.bodyhalloween .gdr-btn-img {filter: saturate(0.7) brightness(0.9) blur(2px)}
+.bodyhalloween .gdr-btn-grid {background-image: linear-gradient(rgba(38, 42, 32, 0.15) 1px, transparent 1px), linear-gradient(90deg, rgba(38, 42, 32, 0.15) 1px, transparent 1px)}
+.bodyhalloween .gdr-btn-fade {background: linear-gradient(to right, rgba(38, 42, 32, 0.75) 0%, transparent 28%, transparent 72%, rgba(38, 42, 32, 0.75) 100%), linear-gradient(to bottom, rgba(38, 42, 32, 0.25) 0%, transparent 50%)}
+.bodyhalloween .gdr-btn-bordino {background:rgba(38, 42, 32, 0.82)!important; border-top: 1px solid rgba(38, 42, 32, 0.4)!important}
+.bodyhalloween .gdr-btn-bordino span {color: var(--hacc)!important}
+.bodyhalloween .gdr-btn-bordino i {color: var(--hac)!important}
+
+.bodyhalloween *::-webkit-scrollbar-track-piece {background: var(--hacc)}
+.bodyhalloween *::-webkit-scrollbar-thumb {background: var(--hmm)}
+.bodyhalloween::-webkit-scrollbar-track-piece {background: var(--hacc)}
+.bodyhalloween::-webkit-scrollbar-thumb {background: var(--hmm)}
+.bodyhalloween *::selection {background: var(--hac); color:var(--hasc)}
+.bodyhalloween *::-moz-selection {background: var(--hac); color:var(--hasc)}
+.bodyhalloween *::-webkit-selection {background: var(--hac); color:var(--hasc)}
+
+.bodyhalloween .tabs a {color: var(--hac); background: var(--hms); border-color: var(--ham)}
+.bodyhalloween .tabs a:hover, .bodyhalloween .tabs .current a {color: var(--hacc); background: var(--hmm); border-color: var(--hacc)}
+.bodyhalloween .tabs.left.no_rotate a {border-color: var(--ham)}
+.bodyhalloween .tabs.right.no_rotate a {border-color: var(--ham)}
+.bodyhalloween .tabs.bottom a {background: var(--hms); border-color: var(--ham)}
+.bodyhalloween .tabs.bottom a:hover {background: var(--cinque)}
+.bodyhalloween .tabs.left a {background: var(--hms)}
+.bodyhalloween .tabs.left a:hover {background: var(--cinque)}
+.bodyhalloween #tab_r1 a, .bodyhalloween #tab_r2 a, .bodyhalloween #tab_r3 a, .bodyhalloween #tab_r4 a, .bodyhalloween #tab_r5 a {color: var(--ham); background: var(--hms); border-color: var(--hsm)}
+.bodyhalloween #tab_r1 a:before {color: var(--hac)}
+.bodyhalloween #tab_r2 a:before {color: var(--hac)}
+.bodyhalloween #tab_r3 a:before {color: var(--hac)}
+.bodyhalloween #tab_r4 a:before {color: var(--hac)}
+.bodyhalloween #tab_r5 a:before {color: var(--hac)}
+.bodyhalloween #tab_r1 a:hover, .bodyhalloween #tab_r2 a:hover, .bodyhalloween #tab_r3 a:hover, .bodyhalloween #tab_r4 a:hover, .bodyhalloween #tab_r5 a:hover {color: var(--hacc); background: var(--hmm); border-color: var(--ham)}
+
+/* Container sezioni */
+.bodyhalloween #c65073496, .bodyhalloween #c65073567, .bodyhalloween #c65114234, .bodyhalloween #c65073571 {background:var(--hmm)}
+
+/* .zz di tutti i container */
+.bodyhalloween #c65073496 .zz, .bodyhalloween #c65073567 .zz, .bodyhalloween #c65114234 .zz, .bodyhalloween #c65073571 .zz {background: var(--hms)}
+
+/* link .zz di tutti i container */
+.bodyhalloween #c65073496 .zz a, .bodyhalloween #c65073567 .zz a, .bodyhalloween #c65114234 .zz a, .bodyhalloween #c65073571 .zz a {color: var(--hacc)}
+
+/* .when(con::before "del") — Benvenuti, Stelle Cadenti, Off-topic&Capitoli */
+.bodyhalloween #f65073496 .when, .bodyhalloween #f65112406 .when,
+.bodyhalloween #f65114234 .when, .bodyhalloween #f65114235 .when, .bodyhalloween #f65114237 .when,
+.bodyhalloween #f65073571 .when, .bodyhalloween #f65073572 .when, .bodyhalloween #f65111597 .when {color:var(--hacc)}
+.bodyhalloween #f65073496 .when::before, .bodyhalloween #f65112406 .when::before,
+.bodyhalloween #f65114234 .when::before, .bodyhalloween #f65114235 .when::before, .bodyhalloween #f65114237 .when::before,
+.bodyhalloween #f65073571 .when::before, .bodyhalloween #f65073572 .when::before, .bodyhalloween #f65111597 .when::before {color:var(--hacc)!important}
+
+/* .web a "spenti" su nero — continenti, resto del mondo, mercante/oltre */
+.bodyhalloween #c65073567 .web a,
+.bodyhalloween #f65114234 .web a, .bodyhalloween #f65114235 .web a,
+.bodyhalloween #f65114236 .web a,
+.bodyhalloween #f65114237 .web a, .bodyhalloween #f65114238 .web a,
+.bodyhalloween #f65118748 .web a, .bodyhalloween #f65118788 .web a {color:var(--bianco); background:var(--nero)}
+
+.bodyhalloween #c65073496 .who span, .bodyhalloween #c65073567 .who span, .bodyhalloween #c65114234 .who span, .bodyhalloween #c65073571 .who span {color: var(--hacc)}
+/* .web a in hover — continenti + resto del mondo */
+.bodyhalloween #c65073567 .big_list >:hover .web a, .bodyhalloween #c65114234 .big_list >:hover .web a {background: var(--hac); color: var(--hasc)}
+
+/* Bordo cinque di tutte le sezioni-continente/mondo */
+.bodyhalloween #f65073567, .bodyhalloween #f65073568, .bodyhalloween #f65073569,
+.bodyhalloween #f65114231, .bodyhalloween #f65114232, .bodyhalloween #f65114233,
+.bodyhalloween #f65114234, .bodyhalloween #f65114235, .bodyhalloween #f65114236,
+.bodyhalloween #f65114237, .bodyhalloween #f65114238,
+.bodyhalloween #f65118748, .bodyhalloween #f65118788 {border-color: var(--hac)}
+
+/* Tutti i link-bottone delle sezioni(reg, sch, nar, sol, yor, azi, ket, van, tor, merc, au, ot, cap, spm) */
+.bodyhalloween .reg-button a, .bodyhalloween .sch-button a,
+.bodyhalloween .nar-button a, .bodyhalloween .sol-button a, .bodyhalloween .yor-button a,
+.bodyhalloween .azi-button a, .bodyhalloween .ket-button a, .bodyhalloween .van-button a,
+.bodyhalloween .tor-button a, .bodyhalloween .merc-button a, .bodyhalloween .au-button a,
+.bodyhalloween .ot-button a, .bodyhalloween .cap-button a, .bodyhalloween .spm-button a {color:var(--hacc)}
+
+/* Tutti i pulsanti pieni delle sezioni — background sette */
+.bodyhalloween .r-forum, .bodyhalloween .r-gdr,
+.bodyhalloween .s-app, .bodyhalloween .s-con, .bodyhalloween .s-ina, .bodyhalloween .s-npc,
+.bodyhalloween .nar-1, .bodyhalloween .nar-2, .bodyhalloween .nar-3, .bodyhalloween .nar-4,
+.bodyhalloween .sol-1, .bodyhalloween .sol-2, .bodyhalloween .sol-3,
+.bodyhalloween .yor-1, .bodyhalloween .yor-2, .bodyhalloween .yor-3, .bodyhalloween .yor-4,
+.bodyhalloween .azi-1, .bodyhalloween .azi-2, .bodyhalloween .azi-3,
+.bodyhalloween .ket-1, .bodyhalloween .ket-2,
+.bodyhalloween .van-1, .bodyhalloween .van-2,
+.bodyhalloween .tor-1, .bodyhalloween .tor-2, .bodyhalloween .tor-3,
+.bodyhalloween .merc-1, .bodyhalloween .merc-2, .bodyhalloween .merc-3,
+.bodyhalloween .au-1, .bodyhalloween .au-2,
+.bodyhalloween .ot-nen, .bodyhalloween .ot-hunter,
+.bodyhalloween .cap-pre, .bodyhalloween .cap-trad,
+.bodyhalloween .spm-reg, .bodyhalloween .spm-ric, .bodyhalloween .spm-aff, .bodyhalloween .spm-gem {background:var(--hmm)}
+
+/* Tutti i pulsanti pieni delle sezioni — hover background sei */
+.bodyhalloween .r-forum:hover, .bodyhalloween .r-gdr:hover,
+.bodyhalloween .s-app:hover, .bodyhalloween .s-con:hover, .bodyhalloween .s-ina:hover, .bodyhalloween .s-npc:hover,
+.bodyhalloween .nar-1:hover, .bodyhalloween .nar-2:hover, .bodyhalloween .nar-3:hover, .bodyhalloween .nar-4:hover,
+.bodyhalloween .sol-1:hover, .bodyhalloween .sol-2:hover, .bodyhalloween .sol-3:hover,
+.bodyhalloween .yor-1:hover, .bodyhalloween .yor-2:hover, .bodyhalloween .yor-3:hover, .bodyhalloween .yor-4:hover,
+.bodyhalloween .azi-1:hover, .bodyhalloween .azi-2:hover, .bodyhalloween .azi-3:hover,
+.bodyhalloween .ket-1:hover, .bodyhalloween .ket-2:hover,
+.bodyhalloween .van-1:hover, .bodyhalloween .van-2:hover,
+.bodyhalloween .tor-1:hover, .bodyhalloween .tor-2:hover, .bodyhalloween .tor-3:hover,
+.bodyhalloween .merc-1:hover, .bodyhalloween .merc-2:hover, .bodyhalloween .merc-3:hover,
+.bodyhalloween .au-1:hover, .bodyhalloween .au-2:hover,
+.bodyhalloween .ot-nen:hover, .bodyhalloween .ot-hunter:hover,
+.bodyhalloween .cap-pre:hover, .bodyhalloween .cap-trad:hover,
+.bodyhalloween .spm-reg:hover, .bodyhalloween .spm-ric:hover, .bodyhalloween .spm-aff:hover, .bodyhalloween .spm-gem:hover {background: var(--hms)}
+
+.bodyhalloween .board .skin_tbl.box_minus, .bodyhalloween .board .skin_tbl.box_plus, .bodyhalloween .stats .skin_tbl, .bodyhalloween .forum .skin_tbl, .bodyhalloween .fast.send .skin_tbl {background: transparent}
+.bodyhalloween .mback {background-color: var(--hmm)}
+.bodyhalloween .mtitle {color: var(--hacc); background: transparent !important}
+.bodyhalloween .title, .bodyhalloween .darkbar {background: var(--hmm) !important; color: var(--hacc)}
+.bodyhalloween .list:not(.send .list) > *, .bodyhalloween table.mainbg tr, .bodyhalloween .profile .skin_tbl {background: var(--hmm)}
+.bodyhalloween .list:not(.send .list) > *:nth-child(even), .bodyhalloween table.mainbg tr:nth-child(even) {background: var(--hmm)}
+.bodyhalloween .big_list > * {background: var(--hacc)}
+.bodyhalloween .big_list > *:nth-child(even) {background: var(--hac)}
+.bodyhalloween .big_list > *:hover {background: var(--hacc)}
+.bodyhalloween .big_list > *:nth-child(even):hover {background: var(--hacc)}
+.bodyhalloween .web a {color: var(--hms)}
+.bodyhalloween .big_list > *:hover .web a {color:var(--hmm)}
+.bodyhalloween .board .topics {background: var(--hmm); color: var(--hacc)!important}
+.bodyhalloween .board .replies {background: var(--hmm); color: var(--hacc)!important}
+
+.bodyhalloween .desc {color: var(--hms)}
+.bodyhalloween .mods {color: var(--hms)}
+.bodyhalloween .mods a {color: var(--hms)}
+.bodyhalloween .subs {color: var(--hms)}
+.bodyhalloween .subs a{color: var(--hms)}
+.bodyhalloween #f_up i{color:var(--hac)!important}
+
+.bodyhalloween#board .skin_tbl.bottom:not(.day_user) .list li {background: var(--hmm); color: #FFF!important}
+.bodyhalloween#board .skin_tbl.bottom:not(.day_user) .list {color: #FFF!important}
+.bodyhalloween#board .stats .list > * {background: var(--hac); color: var(--hms)}
+.bodyhalloween#board .stats .mback {background-color: var(--hmm)}
+.bodyhalloween#board .stats a {color: var(--hms)}
+.bodyhalloween#board .stats a:hover {color:var(--hms)}
+.bodyhalloween#board .stats .bottom:not(.day_user) a {color:var(--hasc)}
+.bodyhalloween#board .stats .bottom:not(.day_user)a:hover {color:var(--hasc)}
+.bodyhalloween .stats .bottom:not(.day_user) .list li {background: var(--sei)}
+.bodyhalloween .stats .bottom:not(.day_user) .zz > div:first-child {color: transparent}
+.bodyhalloween .stats .bottom:not(.day_user) .zz > div:first-child > * > * {color: var(--hacc)}
+.bodyhalloween .stats .bottom:not(.day_user) .zz > div:first-child > * {border-left-color: rgba(0, 0, 0, .5)}
+.bodyhalloween #dailyusers.dailyusers .dailyusers-member img, .bodyhalloween #dailyusers.dailyusers .dailyusers-member-link img {border-color: var(--hmm)!important; background: var(--hacc)!important}
+.bodyhalloween .ffav_stats {border-color: var(--hmm)!important; background: var(--hacc)!important}
+.bodyhalloween .online .aa img {border-color: var(--hmm); background-color: var(--hacc)}
+.bodyhalloween .online {color:var(--hms)}
+.bodyhalloween .online .big_list > * {background:var(--hacc)}
+.bodyhalloween .online:hover {color:var(--hms)}
+.bodyhalloween #top {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/topforum-button-halloween.png) no-repeat center center; background-color:var(--hmm)}
+.bodyhalloween #top a b {color: var(--hmm)}
+.bodyhalloween #top span {color: transparent}
+.bodyhalloween #top b:after {color: var(--hasc)}
+
+.bodyhalloween .users li:before {color: var(--hmm);}
+.bodyhalloween .founder, .bodyhalloween .amministratore, .bodyhalloween .gruppo1,
+.bodyhalloween .moderatore, .bodyhalloween .gruppo2,
+.bodyhalloween .gruppo3, .bodyhalloween .gruppo4, .bodyhalloween .gruppo5,
+.bodyhalloween .gruppo6, .bodyhalloween .gruppo7, .bodyhalloween .gruppo8,
+.bodyhalloween .gruppo9, .bodyhalloween .gruppo10, .bodyhalloween .gruppo11,
+.bodyhalloween .gruppo12, .bodyhalloween .gruppo13,
+.bodyhalloween .daconvalidare, .bodyhalloween .member, .bodyhalloween .utente:not(span.utente) {background: var(--hms)}
+
+.bodyhalloween .team-zone-show-suspended-members:after {color:var(--hacc)}
+.bodyhalloween .team-zone-content.team-zone-member-list {background-color:var(--hms); background-image: url("https://www.transparenttextures.com/patterns/gplay.png"); border-color:var(--ham)}
+.bodyhalloween .team-mate-avatar {border-color:var(--ham)}
+.bodyhalloween .team-zone-inactive-tag {background-color: var(--ham); color:var(--hms)}
+.bodyhalloween .team-mate-avatar.tool-tips-info:hover:before {background:var(--ham); color:var(--hms)}
+.bodyhalloween .team-mate-avatar.tool-tips-info:hover:after {background:var(--ham); color:var(--hms)}
+.bodyhalloween .suspended-members-not-exists-toast {background:var(--ham); border-color:var(--ham)}
+.bodyhalloween .team-zone-suspended-tag {background-color: var(--ham); color:var(--hms)}
+.bodyhalloween .team-zone-recruit-banner {color: var(--hms); background: var(--hac)}
+.bodyhalloween .team-zone-recruit-banner:hover {box-shadow: 0 0 15px #00000040; background: var(--ham)}
+.bodyhalloween .team-zone-recruit-banner a {color: var(--hms)}
+
+
+.bodyhalloween .credits {background: linear-gradient(135deg, var(--hms) 0%, var(--hmm) 50%, var(--hms) 100%); border-top-color: var(--hacc); box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2), inset 0 0 0 1px rgba(207, 146, 105, 0.3)}
+.bodyhalloween .credits::before {background-image: radial-gradient(circle, rgba(207, 146, 105, 0.1) 1px, transparent 1px)}
+.bodyhalloween .credits-content {color: var(--hacc); text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3)}
+.bodyhalloween .credits a {color: var(--hasc); text-shadow: 0 0 5px rgba(207, 146, 105, 0.5)}
+.bodyhalloween .credits a:hover {color: var(--hacc); text-shadow: 0 0 10px var(--hasc)}
+.bodyhalloween .credit-separator {color: var(--hasc); text-shadow: 0 0 5px var(--hasc)}
+
+.bodyhalloween .hxh-trigger-icon {background: linear-gradient(135deg, var(--hms), var(--hmm)); border-color: var(--ham); box-shadow: 0 2px 10px rgba(0,0,0,0.5), 0 0 8px rgba(207, 146, 105,0.3)}
+.bodyhalloween .hxh-trigger-icon i {color: var(--hasc)}
+.bodyhalloween .hxh-trigger-label {color:  var(--hasc)}
+@keyframes hxh-pulse-halloween {0%, 100% {box-shadow: 0 2px 10px rgba(0,0,0,0.5), 0 0 6px rgba(207, 146, 105,0.3)} 50% {box-shadow: 0 2px 16px rgba(0,0,0,0.5), 0 0 18px rgba(207, 146, 105,0.7), 0 0 30px rgba(207, 146, 105,0.25)}}
+.bodyhalloween .hxh-trigger-icon {animation-name: hxh-pulse-halloween}
+.bodyhalloween .hxh-card {background: linear-gradient(160deg, var(--hmm) 0%, var(--hmm) 60%, var(--hms) 100%); border-color: var(--ham); box-shadow: 0 4px 20px rgba(0,0,0,0.5), inset 0 1px 0 rgba(182, 87, 24,0.12)}
+.bodyhalloween .hxh-card::before {background-image: radial-gradient(ellipse at 80% 0%, rgba(59,134,134,0.12) 0%, transparent 60%), radial-gradient(ellipse at 20% 100%, rgba(11,72,107,0.2) 0%, transparent 60%)}
+.bodyhalloween .hxh-corners::before, .bodyhalloween .hxh-corners::after {border-color: var(--ham)}
+.bodyhalloween .hxh-head {border-bottom-color: rgba(182, 87, 24,0.4); background: rgba(38, 42, 32,0.35)}
+.bodyhalloween .hxh-head i {color: var(--hacc)}
+.bodyhalloween .hxh-head-name {color: var(--hasc)}
+.bodyhalloween .hxh-close {color: var(--hasc)}
+.bodyhalloween .hxh-close:hover {color: var(--hasc)}
+.bodyhalloween .hxh-time-block {border-bottom-color: rgba(182, 87, 24,0.25)}
+.bodyhalloween .hxh-time-label {color: var(--hasc)}
+.bodyhalloween .hxh-time-display {color:var(--hacc)}
+.bodyhalloween .hxh-date-block {border-bottom-color: rgba(182, 87, 24,0.25); background: rgba(38, 42, 32,0.15)}
+.bodyhalloween .hxh-date-block i {color: var(--hacc)}
+.bodyhalloween .hxh-date-text {color: var(--hasc)}
+.bodyhalloween .hxh-weather-label {color: var(--hasc)}
+.bodyhalloween .hxh-weather-temp {color: var(--hasc)}
+.bodyhalloween .hxh-footer-deco {border-top-color: rgba(182, 87, 24,0.3); background: rgba(38, 42, 32,0.2)}
+.bodyhalloween .hxh-footer-line {background: linear-gradient(90deg, transparent, rgba(182, 87, 24,0.4), transparent)}
+.bodyhalloween .hxh-footer-diamond {color: var(--hacc)}
+.bodyhalloween .ico-wrapper {border: 2px solid var(--ham);}
+.bodyhalloween .ico-wrapper:hover {border: 2px solid var(--hacc)}
+.bodyhalloween .fb-ico, .bodyhalloween .telegram-ico, .bodyhalloween .yt-ico, .bodyhalloween .cerca-staff-ico, .bodyhalloween .hatsu-ico, .bodyhalloween .cap-ico, .bodyhalloween .spam-ico, .bodyhalloween .esp-ico, .bodyhalloween .kofi-ico {background-color: var(--hacc);}
+
+.bodyhalloween .cs-modal-content {background: var(--hms)!important; border-color: var(--ham); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween .cs-modal-title {color:var(--hac)}
+.bodyhalloween .cs-modal .cs-modal-close {color:var(--hac)}
+.bodyhalloween .cs-modal-body {background:var(--hmm); border-color: var(--ham)!important}
+.bodyhalloween .daily-list {background:var(--hms); border-color: var(--ham)}
+.bodyhalloween .dailyusers-member-link img {border-color: var(--ham)!important}
+.bodyhalloween .du-modal .daily-list>li>div.dailyusers-member-details {color:var(--hacc)}
+.bodyhalloween .du-modal .daily-list>li>div.dailyusers-member-details a {color:var(--hacc)}
+.bodyhalloween .du-modal .daily-list>li:not(:first-child) {border-top-color: var(--hac) !important}
+.bodyhalloween .cs-btn {border-color: var(--ham)!important; background-color: var(--hmm)!important; color: var(--hasc)!important}
+.bodyhalloween .cs-btn:hover {border-color: var(--ham); background-color: var(--hms)!important; color: var(--hasc)}
+.bodyhalloween .credits-container {border-color: var(--ham)!important}
+.bodyhalloween .credits-container .credits-header {background-color:var(--hmm)!important}
+.bodyhalloween .credits-container .credits-header a {color:var(--hacc)!important}
+.bodyhalloween .credits-container .credits-list {background: var(--hms)}
+.bodyhalloween .credits-container .credits-list .credits-script-row .credits-script-name {color: var(--hac)!important}
+.bodyhalloween .credits-container .credits-list .credits-script-row .credits-author-name {color: var(--hac)!important}
+.bodyhalloween .credits-container .credits-list .credits-script-row {color:var(--hasc); border-top-color: var(--ham)!important}
+
+.bodyhalloween .forum .annuncio {background: var(--hamc)}
+.bodyhallo ween {--filquattro: invert(48%) sepia(80%) saturate(500%) hue-rotate(-20deg)}
+.bodyhalloween .annuncio .aa img {filter: var(--filhalloween)!important}
+.bodyhalloween .annuncio.focus .aa img {filter: var(--filhalloweenf) !important}
+.bodyhalloween .importante .aa img {filter: var(--filhalloween)!important}
+.bodyhalloween .importante.focus .aa img {filter: var(--filhalloweenf) !important}
+.bodyhalloween .forum .importante {background: var(--hamc)}
+.bodyhalloween .forum .importante:hover, .bodyhalloween .forum .annuncio:hover {background: var(--hamc)}
+.bodyhalloween .focus {color: var(--hacc)!important; background: var(--hmm) !important}
+.bodyhalloween .focus:nth-child(even) {color: var(--hacc)!important; background: var(--hmm) !important}
+.bodyhalloween .cp .focus *, .bodyhalloween .forum .focus *, .bodyhalloween .blog .focus .title2, .bodyhalloween .blog .focus .tags * {color: var(--hacc) !important}
+.bodyhalloween .focus .web a, .bodyhalloween .focus .desc {color: var(--hacc)!important}
+.bodyhalloween .post.focus {background: var(--hms)!important; color:var(--hms)!important}
+.bodyhalloween .focus .aa span {color: var(--hac)!important}
+.bodyhalloween .aa span {color: var(--hms)!important}
+.bodyhalloween .forum .yy, .bodyhalloween .forum .zz {color: var(--hms)}
+
+.bodyhalloween .cp {color:var(--hacc)}
+.bodyhalloween .cp .tabs .current a {color: var(--hacc); text-shadow:none; background: var(--hms) !important; border-color: var(--hac)}
+.bodyhalloween#msg .cp .sunbar.top, .bodyhalloween#user .cp .sunbar.top {background: var(--hac) !important; color:var(--hms)}
+.bodyhalloween#msg .cp .sunbar, .bodyhalloween#user .cp .sunbar, .bodyhalloween#send .send .sunbar {background: var(--hac) !important; color:var(--hms)}
+.bodyhalloween .tabs2 div:hover {background: var(--hac); color:var(--hms)!important}
+.bodyhalloween .tabs2 .current div {background: var(--hac) !important; color:var(--hms)!important}
+
+.bodyhalloween #loading .top, .bodyhalloween .summary .list .top {color: var(--hms); background: var(--ham)}
+.bodyhalloween #loading .bottom, .bodyhalloween .summary .list .bottom {border-color: var(--ham); background-color: var(--hasc); color: var(--hms)}
+.bodyhalloween .fast.send .sunbar {color: var(--hms); text-shadow: none; background: var(--hac)!important}
+.bodyhalloween .fast.send .mainbg {border-color: var(--ham); background:var(--hms)}
+.bodyhalloween .fast.send .textinput {border-color: var(--ham); background:var(--hasc)}
+.bodyhalloween .send .list {color: var(--hasc); background:var(--hmm)!important}
+.bodyhalloween .send .left {color: var(--hasc)}
+.bodyhalloween .send .textinput {border-color: var(--ham); background:var(--hasc); color:var(--hms)}
+.bodyhalloween a#poll {color: var(--hasc);}
+.bodyhalloween .sunbar {color: var(--hms); background: var(--hac)!important}
+.bodyhalloween .darkbar {color: var(--hms); background: var(--hac)!important}
+.bodyhalloween .sunbar a {color: var(--hms)}
+.bodyhalloween .sunbar a:hover {color: var(--hmm)}
+.bodyhalloween .summary .list > * {border-top-color: var(--hacc)}
+.bodyhalloween .summary .nick a {color:var(--hacc)}
+
+.bodyhalloween .poll .list {border-color: var(--hac); color:var(--hms)}
+.bodyhalloween .poll li {background: var(--hacc)!important; color: var(--hms)}
+.bodyhalloween .poll li:first-child {color:var(--hms); background:var(--hasc)!important}
+.bodyhalloween .poll li.max {background:var(--hac)!important; color:var(--hasc)}
+.bodyhalloween .poll li.max a {color:var(--hasc)}
+.bodyhalloween .bar {background: var(--hmm); color: var(--hacc) !important; border-color: var(--hms)}
+.bodyhalloween .bar div {background: var(--ham)}
+.bodyhalloween .max .bar {background: var(--hmm); color:var(--hasc)!important}
+.bodyhalloween .max .bar div {background: var(--ham);}
+
+.bodyhalloween .topic:not(.comments) .post {background: var(--hmm)}
+.bodyhalloween .topic:not(.comments) .post .title2 {background: linear-gradient(154deg, var(--hasc), var(--hac))}
+.bodyhalloween .topic:not(.comments) .color {border-color: var(--ham); background: var(--hasc)}
+.bodyhalloween .topic:not(.comments, .cp) .color a {color: var(--hmm)}
+.bodyhalloween .topic:not(.comments, .cp) .color a:hover {color: var(--ham)}
+.bodyhalloween .topic:not(.comments, .cp) .color hr {border-top-color: var(--hmm)}
+.bodyhalloween .topic:not(.comments, .cp) .edit {color: rgba(0, 0, 0, .25)}
+.bodyhalloween .topic:not(.comments, .cp) .fancytop {color:var(--hmm)}
+.bodyhalloween .topic:not(.comments, .cp) .fancyborder {border-color: var(--hmm) !important; background: var(--hacc); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3); color:var(--hmm)}
+.bodyhalloween .topic:not(.comments, .cp) .fancyborder a {color:var(--hmm)}
+.bodyhalloween .topic:not(.comments, .cp) .bottomborder {border-bottom-color: var(--hms)}
+.bodyhalloween .topic:not(.comments, .cp) .signature {background: var(--hacc); border-color: var(--ham); box-shadow: 1px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween .topic:not(.comments, .cp) .post .nick {color: rgba(0, 0, 0, .45)}
+.bodyhalloween .topic:not(.comments, .cp) .details a {color: var(--hmm)}
+.bodyhalloween .topic:not(.comments, .cp) .post .details {background-image:none; background-color:var(--hac)}
+.bodyhalloween .topic:not(.comments, .cp) .post .avatar img {border-color: var(--hmm); background: var(--hac)}
+.bodyhalloween .color mark, .bodyhalloween #markdiv mark {background: var(--hac); color: var(--hms)}
+.bodyhalloween .topic:not(.comments, .cp) .details > dl {color: var(--hmm)}
+.bodyhalloween .topic .u_rank i {color:var(--hmm)!important}
+.bodyhalloween .topic:not(.comments, .cp) .u_group, .bodyhalloween .topic:not(.comments, .cp) .u_posts, .bodyhalloween .topic:not(.comments, .cp) .u_reputation {background:var(--hacc); border-bottom-color: var(--hac); color: var(--hmm)}
+.bodyhalloween .topic:not(.comments, .cp) .details p, .bodyhalloween .topic:not(.comments, .cp) .u_status {background: var(--hacc); color: var(--hmm)}
+.bodyhalloween .quoteentry img {box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)!important; border-color: var(--hmm)!important; background: var(--hacc)!important}
+.bodyhalloween [class~=code] li {background-color:rgba(0, 0, 0, .1)}
+.bodyhalloween [class~=code] li:nth-child(2n) {background-color:rgba(0, 0, 0, .2)}
+.bodyhalloween .select_code {color:var(--hms)!important}
+.bodyhalloween .select_code:before {color: var(--hms)}
+.bodyhalloween .select_code:after {color: var(--hms)}
+.bodyhalloween .quote, .bodyhalloween .spoiler .code {color: var(--hms); background: var(--hacc); border-color: var(--hmm); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween .code {color: #999; background: #505050; border-color: var(--hmm); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween .quote .quote, .bodyhalloween .spoiler .quote, .bodyhalloween .quote .spoiler .code {color: var(--hasc); background: var(--hac)}
+.bodyhalloween .code .code {color: #999; background: #505050}
+.bodyhalloween .quote .quote .quote, .bodyhalloween .quote .quote .code, .bodyhalloween .spoiler .quote .quote, .bodyhalloween .spoiler .quote .code, .bodyhalloween .quote .spoiler .quote, .bodyhalloween .quote .code .code {color: var(--hms); background: var(--hacc)}
+.bodyhalloween .quote .code .code, .bodyhalloween .spoiler .quote .code, .bodyhalloween .quote .quote .code {color: #999; background: #505050}
+.bodyhalloween .quote .quote .quote .quote, .bodyhalloween .quote .quote .quote .code, .bodyhalloween .spoiler .quote .quote .quote, .bodyhalloween .spoiler .quote .quote .code, .bodyhalloween .quote .spoiler .quote .quote, .bodyhalloween .quote .spoiler .quote .code, .bodyhalloween .quote .quote .spoiler .quote, .bodyhalloween .quote .quote .code .code, .bodyhalloween .quote .quote .quote .code {color: var(--hasc); background: var(--hac)}
+.bodyhalloween .quote .quote .quote .code, .bodyhalloween .quote .quote .code .code, .bodyhalloween .quote .spoiler .quote .code, .bodyhalloween .spoiler .quote .quote .code, .bodyhalloween .quote .quote .quote .code {color: #999; background: #505050}
+.bodyhalloween .quote_top, .bodyhalloween .code_top {color: var(--hacc); background-color: var(--hmm); border-color: var(--ham); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween .quote_top a, .bodyhalloween .code_top a {color: var(--hac)!important}
+.bodyhalloween .quote_top a:hover, .bodyhalloween .code_top a:hover {color: var(--hacc)!important}
+.bodyhalloween .spoiler .code_top:before {color: var(--hac)}
+.bodyhalloween .code_top:before {color: var(--hac)}
+.bodyhalloween .code_top:after {color: #CCC}
+.bodyhalloween .quote .quote_top:before, .bodyhalloween .quote .code_top:before, .bodyhalloween .quote .code_top:after, .bodyhalloween .spoiler .quote_top:before, .bodyhalloween .code .code_top:before, .bodyhalloween .code .code_top:after {color: var(--hac)}
+.bodyhalloween .quote .quote .quote_top:before, .bodyhalloween .quote .quote .code_top:before, .bodyhalloween .quote .quote .code_top:after, .bodyhalloween .spoiler .quote .quote_top:before, .bodyhalloween .spoiler .quote .code_top:before, .bodyhalloween .spoiler .quote .code_top:after, .bodyhalloween .quote .spoiler .quote_top:before, .bodyhalloween .quote .code .code_top:before, .bodyhalloween .quote .code .code_top:after {color: var(--hac)}
+.bodyhalloween .quote .quote .quote .quote_top:before, .bodyhalloween .quote .quote .quote .code_top:before, .bodyhalloween .quote .quote .quote .code_top:after, .bodyhalloween .spoiler .quote .quote .quote_top:before, .bodyhalloween .spoiler .quote .quote .code_top:before, .bodyhalloween .spoiler .quote .quote .code_top:after, .bodyhalloween .quote .spoiler .quote .quote_top:before, .bodyhalloween .quote .spoiler .quote .code_top:before, .bodyhalloween .quote .spoiler .quote .code_top:after, .bodyhalloween .quote .quote .spoiler .quote_top:before, .bodyhalloween .quote .quote .code .code_top:before, .bodyhalloween .quote .quote .code .code_top:after, .bodyhalloween .quote .quote .quote .code_top:before, .bodyhalloween .quote .quote .quote .code_top:after {color: var(--hac)}
+
+
+
+.bodyhalloween .title a {color:var(--hasc)}
+
+.bodyhalloween .inter-topics-tips-box a {color: var(--hasc)!important}
+.bodyhalloween .inter-topics-tips-box {color:var(--hms)!important}
+.bodyhalloween li#inter-topics-tips-box {background: var(--hac) !important}
+
+.bodyhalloween#msg .post {border-color: var(--ham)!important; background-color:var(--hmm)}
+.bodyhalloween#msg .post .title2 {background: linear-gradient(154deg, var(--hasc), var(--hac))}
+.bodyhalloween#msg .post .color {background:var(--hasc); border-color: var(--ham)!important}
+.bodyhalloween#msg .color {color: var(--hms)}
+.bodyhalloween#msg .post .right {color: var(--hms)}
+.bodyhalloween#msg .post .nick {color:var(--hms)}
+.bodyhalloween#msg .post .nick a {color: var(--hms)}
+.bodyhalloween#msg .details .avatar img {border-color: var(--hmm); background-color:var(--hac); box-shadow: 2px 3px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween#msg .u_group, .bodyhalloween#msg .u_posts, .bodyhalloween#msg .u_joined {background:var(--hacc); border-bottom-color: var(--hmm); color: var(--hmm)}
+.bodyhalloween#msg .mini_buttons a {color: var(--hmm)}
+.bodyhalloween#msg .sunbar {background-color:var(--hac)!important; color:var(--hms)!important}
+
+.bodyhalloween .profile .tabs a {color: transparent}
+.bodyhalloween .profile .tabs a:before {color: var(--hac)}
+.bodyhalloween .profile .skin_tbl {background: var(--hac)!important}
+.bodyhalloween .profile .avatar img {border-color: var(--hacc); background-color:var(--hms)}
+.bodyhalloween .profile .avatar {filter: drop-shadow(2px 2px 0 rgba(0, 0, 0, 0.3))}
+.bodyhalloween .box_anonimo .profile .avatar::after {border-color: var(--hms); background:var(--anonimo)}
+.bodyhalloween .box_online .profile .avatar::after {border-color: var(--hms); background: var(--online)}
+.bodyhalloween .box_offline .profile .avatar::after {border-color: var(--hms); background: var(--offline)}
+.bodyhalloween .profile .right {border-color: var(--hms); background-color: var(--hasc); color: var(--hms); box-shadow: 4px 3px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween .profile .nick {color: var(--hacc); text-shadow: none}
+.bodyhalloween .profile .left {background: var(--hms); box-shadow: 4px 3px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween .profile .left dt {color: #FFF!important; background: #282828}
+.bodyhalloween .profile .left > dl {background: #FFF; border-color: #282828; color: #282828}
+.bodyhalloween .profile .left .mini_buttons a {color: var(--hmm); background: var(--hacc)}
+.bodyhalloween .profile .list {border-color: var(--ham)}
+.bodyhalloween .profile .right dl {background:var(--hms)!important; color: var(--hacc)}
+.bodyhalloween .profile .right dl a {color: var(--hasc)}
+.bodyhalloween .profile .right dl:hover {background:var(--hmm)!important; color:var(--hasc)}
+.bodyhalloween .profile .right dl:hover a {color:var(--hacc)}
+.bodyhalloween .profile dl.rep_pos dd a, .bodyhalloween .profile dl.rep_neg dd a {color:var(--hacc)!important}
+.bodyhalloween .profile .mysocials-list {background-color: var(--hacc)!important}
+.bodyhalloween .profile .mypets-list {background-color: var(--hacc)!important}
+
+/* h3 dei due container */
+.bodyhalloween #gdr-tab-content h3, .bodyhalloween #staff-tasks-container h3 {color:var(--hacc); border-bottom-color:var(--hacc)}
+/* sezioni verdi con bordo teal — gdr-section, tasks-section, add-task-form */
+.bodyhalloween .gdr-section, .bodyhalloween .tasks-section {background:var(--hms); border-left-color:var(--hamc)}
+.bodyhalloween .add-task-form {background:var(--hms); border-left-color:var(--hamc)}
+.bodyhalloween .tasks-section.completed-section {background:var(--hms); border-left-color:var(--hamc)}
+/* h4 blu delle sezioni */
+.bodyhalloween .gdr-section h4, .bodyhalloween .tasks-section h4, .bodyhalloween .add-task-form h4 {color:var(--hacc)}
+/* contatori */
+.bodyhalloween .gdr-section h4 .count, .bodyhalloween .tasks-section h4 .count {color:var(--hac)}
+/* righe lista — sheets-list li, task-item */
+.bodyhalloween .sheets-list li {border-bottom-color:var(--hac); background:var(--hac)}
+.bodyhalloween .task-item {background:var(--hac)}
+.bodyhalloween .sheets-list li:hover {background:var(--hacc); box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1)}
+.bodyhalloween .task-item:hover {background:var(--hacc)}
+/* titoli scuri — sheet-title, task-title */
+.bodyhalloween .sheet-title, .bodyhalloween .task-title {color:var(--hms)}
+.bodyhalloween .sheet-title:hover {color:var(--hms)}
+/* tag date/meta su verde chiaro — sheet-dates span, task-assigned */
+.bodyhalloween .sheet-dates span, .bodyhalloween .task-assigned {color:var(--hmm); background:var(--hacc)}
+/* tag su teal con testo bianco — date-modified, task-date */
+.bodyhalloween .date-modified, .bodyhalloween .task-date {background:var(--hacc)!important; var(--hmm)}
+.bodyhalloween .date-created {background:var(--hacc)!important; color: var(--hmm)}
+/* empty / loading condivisi */
+.bodyhalloween .empty {color:var(--hacc)}
+.bodyhalloween .loading {color:var(--hacc)}
+/* progress gdr */
+.bodyhalloween #gdr-progress {background:var(--hacc); color: var(--hmm)}
+/* input form task */
+.bodyhalloween .add-task-form input {border-color:var(--hacc)}
+.bodyhalloween .add-task-form input:focus {border-color:var(--hacc)}
+/* pulsante form task */
+.bodyhalloween .add-task-form button {background:var(--hacc); color:var(--hmm)}
+.bodyhalloween .add-task-form button:hover {background:var(--hacc)}
+/* pulsante elimina */
+.bodyhalloween .task-delete {background:var(--hacc); color: var(--hmm)}
+.bodyhalloween .task-delete:hover {background:var(--hacc)}
+
+.bodyhalloween #profile-tracker #tracked-list li.tracked-entity {background:var(--hacc); color:var(--hms)}
+.bodyhalloween #profile-tracker #tracked-list li.tracked-entity:hover {background:var(--hasc)}
+.bodyhalloween #profile-tracker li.title {color: var(--hacc)}
+
+
+.bodyhalloween .st-badge-1 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/1h.png')}
+.bodyhalloween .st-badge-2 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/2h.png')}
+.bodyhalloween .st-badge-3 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/3h.png')}
+.bodyhalloween .st-badge-4 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/4h.png')}
+.bodyhalloween .st-badge-5 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/5h.png')}
+.bodyhalloween .st-badge-6 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/6h.png')}
+.bodyhalloween .st-badge-7 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/7h.png')}
+.bodyhalloween .st-badge-8 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/8h.png')}
+.bodyhalloween .st-badge-9 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/9h.png')}
+.bodyhalloween .st-badge-10 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/10h2.png')}
+
+.bodyhalloween .pages2 a:link, .bodyhalloween .pages2 a:visited {color: var(--hasc) !important; text-shadow: none !important; background: var(--hmm); border-color: var(--hmm)}
+.bodyhalloween .pages2 a:hover {background:var(--hms); color: var(--hacc) !important; border-color: var(--hms)}
+.bodyhalloween .pages li a, .bodyhalloween .pages .current {color: var(--hms); background: var(--hacc); border-color: var(--hacc)}
+.bodyhalloween .pages li a:hover {background: var(--hac); border-color: var(--hac)}
+.bodyhalloween .pages .current {color: var(--hms); background: var(--hacc); border-color: var(--hacc)}
+.bodyhalloween .pages .jump a, .bodyhalloween .pages .lastpost a {color: var(--hms); background: var(--hacc); border-color: var(--hacc)}
+.bodyhalloween .pages .jump a:hover, .bodyhalloween .pages .lastpost a:hover {color: var(--hms); background: var(--hacc); border-color: var(--hacc)}
+.bodyhalloween .pages .first a, .bodyhalloween .pages .last a {background: var(--hacc); border-color: var(--hacc)}
+.bodyhalloween .pages .first a:hover, .bodyhalloween .pages .last a:hover {background: var(--hacc); border-color: var(--hacc)}
+
+.bodyhalloween .codebuttons, .bodyhalloween .forminput, .bodyhalloween .textinput {color: var(--hms); background: var(--hasc); border-color: var(--ham); filter: drop-shadow(2px 2px 0 rgba(0, 0, 0, 0.3)); box-shadow: inset 0 1px 0 #FFF}
+.bodyhalloween .textinput:focus, .bodyhalloween .forminput[type=text]:focus, .bodyhalloween .forminput[type=password]:focus {border-color: var(--ham); box-shadow: 0 0 8px var(--hac)}
+.bodyhalloween .codebuttons:hover {background: var(--hasc); border-color: var(--ham)}
+.bodyhalloween .sunbar .forminput {color: var(--hms); background: var(--hasc); border-color: var(--hms); box-shadow: none}
+.bodyhalloween .sunbar .forminput:hover {background: var(--hasc); border-color: var(--hms)}
+
+.bodyhalloween .navsub .forminput {color: var(--hms); background: var(--hasc); border-color: var(--ham)}
+.bodyhalloween .navsub .forminput:hover, .bodyhalloween .navsub .forminput:focus {background: var(--hasc)}
+.bodyhalloween .title .forminput {color: var(--hms); background: var(--hasc); border-color: var(--ham)}
+.bodyhalloween .title .forminput:hover {background: var(--hasc)}
+.bodyhalloween .title input.forminput {color: var(--hms); background:var(--hasc); border-color: var(--ham)}
+.bodyhalloween .title input.forminput:hover {background: var(--hasc)}
+.bodyhalloween .darkbar .forminput, .bodyhalloween .fast.send .forminput {color: var(--hms); background: var(--hasc); border-color: var(--ham)}
+.bodyhalloween .darkbar .forminput:hover, .bodyhalloween .fast.send .forminput:hover {background: var(--hacc)}
+.bodyhalloween .darkbar .forminput {border-color: var(--ham) !important}
+.bodyhalloween .darkbar input.forminput, .bodyhalloween .fast.send input.forminput {background: var(--hasc); box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween .darkbar button.forminput {color: var(--hms); background: var(--hasc); box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween .darkbar button.forminput:hover {color: var(--hms); background: var(--hasc)}
+.bodyhalloween .buttons span {color: var(--hasc); background: var(--ham); border-color: var(--ham); filter: drop-shadow(2px 1px 0 rgba(0, 0, 0, 0.3))}
+.bodyhalloween .buttons span:hover {background: var(--hac); border-color: var(--hac)}
+ body.bodyhalloween {--sette: var(--hasc)}
+
+ .bodyhalloween .ff-modal {background: var(--hms); border-color: var(--ham); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3); color:var(--hasc)}
+.bodyhalloween .ff-modal .info {background:var(--hasc)!important; color:var(--hms)!important; border-color: var(--ham); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween .ff-modal .forminput, .bodyhalloween .ff-modal .codebuttons {border-color: var(--ham)!important}
+.bodyhalloween summary {background:var(--hacc)!important; border-color: var(--hms); filter: drop-shadow(3px 2px 0 rgba(0, 0, 0, 0.3)); color:var(--hms); list-style-image: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/newsH.gif)}
+.bodyhalloween summary::-webkit-details-marker {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/newsH.gif); color: transparent}
+.bodyhalloween details[open] summary {background: var(--hacc)}
+.bodyhalloween details[open] {background:var(--hms); border-color: var(--hms); filter: drop-shadow(3px 2px 0 rgba(0, 0, 0, 0.3)); color: var(--hasc)}
+.bodyhalloween .rego-testo {color: var(--hms)}
+.bodyhalloween .rego-testo a {color: var(--ham)!important; font-weight:bold}
+.bodyhalloween .rego {border-color: var(--ham); background: var(--hasc)}
+.bodyhalloween .rego:before {color: var(--hacc)}
+
+.bodyhalloween #bgr-bubble {background:var(--hmm); color: var(--hacc); border: 2px solid var(--ham)}
+.bodyhalloween #bgr-card {background: linear-gradient(135deg, var(--hms) 0%, var(--hmm) 100%); border-top: 3px solid var(--ham); border-bottom: 3px solid var(--ham)}
+.bodyhalloween #bgr-card .bgr-icon {background:var(--hac); color: var(--hms)}
+.bodyhalloween #bgr-card .bgr-title {background: var(--hasc); -webkit-background-clip: text; -webkit-text-fill-color: transparent}
+.bodyhalloween #bgr-card .bgr-subtitle {color: var(--hasc)}
+.bodyhalloween #bgr-card .bgr-name {color: var(--ham); -webkit-text-fill-color: var(--ham)}
+.bodyhalloween #bgr-card .bgr-btn {color: var(--hacc); border: 1px solid var(--ham)}
+
+/*INIZIO KEYWORD TOOLTIPS*/
+.bodyhalloween .keyword_wrapper {background-color: var(--ham) !important; box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween .keyword_inner {background:var(--hasc);color: var(--hms)}
+.bodyhalloween .keyword_inner h3 {background: var(--hms) !important; color: var(--hacc); border-color: var(--hms)}
+.bodyhalloween a.keyword_tooltip {color:var(--hac)!important}
+.bodyhalloween a.keyword_tooltip:hover {color:var(--hms)!important}
+/*FINE KEYWORD TOOLTIPS*/
+.bodyhalloween #gr-modal {color:var(--hms)!important}
+.bodyhalloween .skin-personalizer-button::after {background-color:var(--hacc)}
+
+
+.bodyhalloween #notifications-modal .modal-title {color: var(--ham)}
+.bodyhalloween #notifications-modal .avatar {border-color: var(--ham); background: var(--ham)}
+.bodyhalloween #notifications-modal .notification-image .notification-type {border-color: var(--ham); background-color: var(--ham)}
+.bodyhalloween #notifications-modal .notification-row .notification-status {background-color: #0000}
+.bodyhalloween #notifications-modal .notification-container:not(.readed) .notification-row, .bodyhalloween #notifications-empty {background: var(--hasc); border-color: var(--ham)}
+.bodyhalloween #notifications-modal .notification-container:not(.readed) .notification-row:hover {background: var(--hamc); border-color: var(--ham)}
+.bodyhalloween #notifications-modal .notification-row {background: var(--hamc); border-color: var(--ham); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween #notifications-modal .notification-row:hover {background: var(--hasc)}
+.bodyhalloween #notifications-modal .notification-row .notification-text {color: var(--hms)!important}
+.bodyhalloween .notification-container .error {color: #453F4E}
+.bodyhalloween #notifications-empty {box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween #notifications-modal .notification-row .dot {background: transparent}
+.bodyhalloween #notifications-modal .notification-container:not(.readed) .dot {background-color: var(--hms)}
+.bodyhalloween #notifications-modal .notification-container:not(.readed) .notification-date, .bodyhalloween #notifications-empty {color: var(--hms)}
+.bodyhalloween #notifications-links a {color: var(--ham)}
+.bodyhalloween #notifications-modal .notification-container.readed .notification-text, .bodyhalloween #notifications-modal .notification-container.readed .notification-date {color: var(--hms)!important}
+.bodyhalloween .notification-container .dropbtn {background: var(--hms); box-shadow: none}
+.bodyhalloween .notification-container .dropbtn:hover {background-color: var(--hmm)}
+.bodyhalloween .notification-container .dropbtn:before {background: var(--hasc); box-shadow: 7px 0 var(--hasc), 15px 0 var(--hasc)}
+.bodyhalloween .notification-container .dropdown-content a {background: var(--hms); color: var(--hasc)}
+.bodyhalloween .notification-container .dropdown-content a:hover {background-color: var(--hmm)}
+.bodyhalloween #notifications-modal .plus-button {background: var(--hmm); border-color: var(--ham); box-shadow:none}
+.bodyhalloween #notifications-mode button {background: var(--hasc); border-color: var(--ham); color: var(--hms); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodyhalloween #notifications-mode button.active, .bodyhalloween #notifications-mode button[data-mode]:hover {background: var(--hmm); color: var(--hasc)}
+.bodyhalloween #notifications-option-dropdown {box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)!important}
+.bodyhalloween .tippy-box {background-color: var(--hasc) !important; border-color: var(--ham)}
+.bodyhalloween .tippy-box>.tippy-arrow:before {border-left-color: var(--ham) !important}
+.bodyhalloween .tippy-box>.tippy-arrow:before {border-bottom-color: transparent !important}
+/* Compleanno */ 
+.bodyhalloween #bgr-bubble {background:var(--hmm); color: var(--hacc); border: 2px solid var(--ham)}
+.bodyhalloween #bgr-card {background: linear-gradient(135deg, var(--hms) 0%, var(--hmm) 100%); border-top: 3px solid var(--ham); border-bottom: 3px solid var(--ham)}
+.bodyhalloween #bgr-card .bgr-icon {background:var(--hac); color: var(--hms)}
+.bodyhalloween #bgr-card .bgr-title {background: var(--hasc); -webkit-background-clip: text; -webkit-text-fill-color: transparent}
+.bodyhalloween #bgr-card .bgr-subtitle {color: var(--hasc)}
+.bodyhalloween #bgr-card .bgr-name {color: var(--ham); -webkit-text-fill-color: var(--ham)}
+.bodyhalloween #bgr-card .bgr-btn {color: var(--hacc); border: 1px solid var(--ham)}
