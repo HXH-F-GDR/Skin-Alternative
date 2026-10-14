@@ -1,0 +1,666 @@
+.bodynatale {background-color: var(--nvs); background-image:url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/Sfondo-Natale.png'); color: var(--nvn); background-position: top}
+.bodynatale a {color: var(--nvss)}
+.bodynatale .nav {color:var(--nvs)}
+.bodynatale .nav a {color:var(--nvm)}
+.bodynatale .nav span {color:var(--nvs)!important}
+.bodynatale .footer a {color: var(--ncc)}
+.bodynatale .footer {color: var(--ncc)}
+.bodynatale .container {border-color: var(--nrm); box-shadow: 0 0 23px var(--nrc); background-color: var(--ncc)}
+.bodynatale .menuwrap {background: var(--nvm); padding: 0; border-bottom:none}
+.bodynatale .menuwrap em {border: 2px solid var(--nvs); background: var(--nvs)!important; color: var(--ncc)!important; margin-left: 2px; border-radius: 5px!important}
+.bodynatale .menu:hover .avatar {margin-top: 16px}
+.bodynatale .menuwrap .left > .menu:nth-child(1) > a {margin: 0; padding-left: 123px; background-color: var(--nrs); color: var(--ncc)!important; border:none; height: 52px; border-radius: 0 10px 10px 0}
+.bodynatale .menuwrap .left > .menu:not(.menu:nth-child(1)) > a {border:none!important; background:transparent!important; font-size: 12px}
+.bodynatale .menuwrap .nick {color: var(--ncc)!important; font-size: 15px!important; line-height: 3.5}
+.bodynatale .menuwrap .nick:before {content:"Buon Natale, "; margin-right: 5px; color: var(--ncc)}
+.bodynatale .menuwrap .nick:after {content:"!"; margin-left: 5px; color: var(--ncc)}
+.bodynatale .menuwrap .right .skin-switcher {width: 42px !important; height: 42px !important; margin-top: 3px}
+.bodynatale .menuwrap a {margin: 3px; font-size: 14px; color: var(--ncc); padding: 0 12px}
+.bodynatale .menuwrap .avatar {background-color: var(--nrmc); border-color: var(--nrmc)}
+.bodynatale .menu:hover .avatar {background-color: var(--nvss); border-color: var(--nvss)}
+.bodynatale .menu > a:hover, .bodynatale .menu:hover > a {color: var(--nvc)}
+.bodynatale .menu ul {background: var(--nvm); border-color: var(--nvss)}
+.bodynatale .menu li {border-color: var(--nvss)}
+.bodynatale .menu li strong {color: var(--nvss)!important}
+.bodynatale .menu li a {color: var(--nvn) !important}
+.bodynatale .menu li a:hover {background: var(--nvs); color: var(--nvc)!important}
+.bodynatale .left .menu ul ul {background: var(--nvm); border-color: var(--nvss); border-radius: 10px}
+.bodynatale .menuwrap .search input {background: var(--nvc) url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/lente-cerca.png') no-repeat 55% 50%; border-color: var(--nvn); width: 42px; height: 42px; margin-top: 6px}
+.bodynatale .menuwrap .search input:hover {background-color: var(--nvc)}
+.bodynatale .menuwrap .search input:focus {background-color: var(--nvc)}
+.bodynatale .menuwrap .left > .menu:nth-child(2) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/nl1.png) left center no-repeat!important}
+.bodynatale .menuwrap .left > .menu:nth-child(3) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/nl3.png) left center no-repeat!important}
+.bodynatale .menuwrap .left > .menu:nth-child(4) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/nl4.png) left center no-repeat!important}
+.bodynatale .menuwrap .left > .menu:nth-child(5) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/nl5.png) left center no-repeat!important}
+.bodynatale .menuwrap .left > .menu:nth-child(6) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/nl6.png) left center no-repeat!important}
+.bodynatale .menuwrap .right > .menu:nth-child(1) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/nr1.png) left center no-repeat!important}
+.bodynatale .menuwrap .right > .menu:nth-child(2) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/nr2.png) left center no-repeat!important}
+.bodynatale .menuwrap .right > .menu:nth-child(3) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/nr3.png) left center no-repeat!important}
+.bodynatale .menuwrap .right > .menu:nth-child(4) > a > span {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/nr4.png) left center no-repeat!important}
+
+/* Echo Slider */
+.bodynatale .echo-section.echo-ongame {background: var(--nvs) !important}
+.bodynatale .echo-section.echo-offgame {background: var(--nrs) !important}
+.bodynatale .echo-section.echo-extra {background: var(--nvss) !important}
+.bodynatale #echo-slider {background-color: var(--nvm)}
+/* Border con pseudo-elemento */
+.bodynatale #echo-slider::before {content: ''; border: 2px solid var(--nvs)}
+.bodynatale .echo-item {background-image:url('https://www.transparenttextures.com/patterns/gplay.png')}
+/* SEZIONE Topics */
+.bodynatale .echo-section {background: var(--nrs); color: var(--ncc)}
+.bodynatale .echo-avatar {background-color: var(--nvm); border: 3px solid var(--nvs)}
+.bodynatale .echo-author {color: var(--ncc); background: var(--nvm)}
+.bodynatale .echo-action {color: var(--ncc)}
+.bodynatale .echo-topic {color: var(--ncc); background: var(--nvm)}
+.bodynatale .echo-time {color: var(--ncc)}
+.bodynatale .echo-hour, .bodynatale .echo-date {color: var(--ncc)}
+.bodynatale .echo-loading {color: var(--ncc)}
+.bodynatale #echo-slider.echo-expanded .echo-item {border-bottom: 2px solid var(--nvn)}
+/* FRECCE */
+.bodynatale .echo-btn {background: rgba(53, 79, 70, 0.7); color: #FFFFFF}
+.bodynatale .echo-btn:hover {background: rgba(53, 79, 70, 0.9)}
+
+
+.bodynatale .tabella-home {border-color: var(--nvm); color:var(--hms); box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3), inset 0 0 0 1px rgba(255, 255, 255, 0.1); background:var(--nvs)}
+.bodynatale .tabella-fondo {background:var(--nvs)}
+.bodynatale .tabella-home td {border-color: var(--nvm)}
+.bodynatale .tabella-home th {border-color: var(--nvm)}
+.bodynatale .titolo {color:var(--ncc); background:linear-gradient(120deg, var(--nvn) 0%, var(--nvs) 50%, var(--nvn) 100%); text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3), 0 0 20px var(--nvc)}
+.bodynatale .titolo::after {background:linear-gradient(90deg, transparent, var(--nvc), transparent)}
+.bodynatale .titoletto-tabella, .bodynatale .titoletto-gdr {color:var(--ncc); background:linear-gradient(135deg, var(--nrm) 0%, var(--nrmc) 100%); text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3), 0 0 10px var(--nrc); border-bottom-color: var(--nvm); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2)}
+.bodynatale .box1 img, .bodynatale .box2 img {border-color: var(--ncc)!important; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3), inset 0 0 0 1px rgba(255, 255, 255, 0.2); filter:brightness(0.95)}
+.bodynatale .box3 img, .bodynatale .box4 img, .bodynatale .box5 img, .bodynatale .box6 img {border-color: var(--ncc); box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); filter:brightness(0.95)}
+.bodynatale .box1 img:hover, .bodynatale .box2 img:hover, .bodynatale .box3 img:hover, .bodynatale .box4 img:hover, .bodynatale .box5 img:hover, .bodynatale .box6 img:hover {border-color:var(--ncs)!important; box-shadow: 0 6px 20px rgba(177, 140, 114, 0.4), inset 0 0 0 1px rgba(255, 255, 255, 0.4), 0 0 15px var(--ncc); filter:brightness(1.05)}
+.bodynatale .descrizione, .bodynatale .pilot, .bodynatale .copyright {color:var(--ncc); background:linear-gradient(135deg, rgba(37, 52, 47, 0.3) 0%, rgba(37, 52, 47, 0.3) 100%); box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.2); text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5)}
+.bodynatale .affiliati, .bodynatale .gemellati, .bodynatale .attivita-gdr {color:var(--ncc)}
+.bodynatale .community {color:var(--ncc); background:linear-gradient(135deg, rgba(37, 52, 47, 0.3) 0%, rgba(37, 52, 47, 0.3) 100%); box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.2); text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5)}
+.bodynatale .box3 {border-left-color: var(--nvm)!important}
+.bodynatale .box3 a {color:var(--ncs)}
+.bodynatale .box6 {color:var(--ncc)}
+.bodynatale .titolonewsboard {background:linear-gradient(135deg, var(--nrs) 0%, var(--nrmc) 50%, var(--nrs) 100%); color:var(--ncc); text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5), 0 0 15px var(--hacc); box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2), inset 0 1px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale .titolonewsboard::before {background:repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(255, 255, 255, 0.1) 10px, rgba(255, 255, 255, 0.2) 11px)}
+.bodynatale .hb-container .hb-avatar {border-color: var(--nvn); background: #0000!important; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2)}
+.bodynatale .hb-container .hb-avatar:hover {box-shadow: 0 2px 10px rgba(59, 134, 134, 0.4)}
+.bodynatale .hb-container .hb-bbcode-trigger, .bodynatale .hb-container .hb-send-btn, .bodynatale .hb-container .hb-cancel-btn {background-color: var(--nvc)!important; color: var(--nvn)!important; border-color: var(--nvm)!important; filter: drop-shadow(2px 4px 0 rgba(0, 0, 0, 0.3))}
+.bodynatale .hb-emoticons-trigger {background:transparent!important}
+.bodynatale .hb-container .hb-quote-ref {background-color: var(--nvs)!important}
+.bodynatale .hb-container .hb-banner--info {background: var(--ncc)!important; border-color: var(--ncs)!important; color: var(--nvs)!important}
+.bodynatale .hb-container .hb-banner-content:before {color:var(--nvs)}
+.bodynatale .hb-container .hb-banner--info a {color:var(--nvs)!important}
+.bodynatale .hb-container .hb-onlines {background:var(--nvm); border-color: var(--nvn)!important}
+.bodynatale .hb-container .hb-stacked-avatars .hb-stacked-avatar {border-color: var(--nvn)!important}
+.bodynatale .hb-text-content {color:var(--nvn)!important}
+.bodynatale .hb-text-content a {color:var(--nvn)}
+.bodynatale .hb-container .hb-spoiler {background: var(--nvm)!important}
+.bodynatale .hb-message:nth-child(odd) {color: var(--nvn); border-color: var(--nvss); background: var(--nvc)}
+.bodynatale .hb-message:nth-child(even) {color: var(--nvn); border-color: var(--nvss); background: var(--nvc)}
+.bodynatale .hb-container .hb-loader-wrapper .loader-animation:before, .bodynatale .hb-container .hb-loader-wrapper .loader-animation:after {background-color: var(--nvc)!important}
+
+.bodynatale .gdr-on {border-right-color: var(--nvm)!important; background:linear-gradient(135deg, rgba(255, 255, 255, 0.1) 0%, rgba(37, 52, 47, 0.05) 100%); box-shadow:inset 0 0 10px rgba(0, 0, 0, 0.1)}
+.bodynatale .gdr-off {background:linear-gradient(135deg, rgba(255, 255, 255, 0.1) 0%, rgba(37, 52, 47, 0.05) 100%); box-shadow:inset 0 0 10px rgba(0, 0, 0, 0.1)}
+.bodynatale .t-card {background: linear-gradient(135deg, var(--nvn) 0%, var(--nvss) 50%, var(--nvn) 100%); outline-color: var(--nvc); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3), inset 0 0 0 1px rgba(37, 52, 47, 0.3)}
+.bodynatale .t-card::before {background-image: radial-gradient(circle, rgba(148, 164, 157, 0.15) 1px, transparent 1px)}
+.bodynatale .t-inner_part .t-img {box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2); border-color: var(--nvm); outline-color: var(--nvc)}
+.bodynatale .t-content .t-title {color: var(--nvc)}
+.bodynatale .t-content .t-text {color: var(--ncc)}
+.bodynatale .t-content button {color: var(--nvn); background: var(--nvc)}
+.bodynatale .t-content button:hover {background: var(--nvm); color: var(--nvn)}
+.bodynatale .t-slider .t-slide {background: var(--nvc)}
+.bodynatale .t-slider .t-slide:before {background: var(--nvm)}
+.bodynatale .bottone-figo {color: var(--nvc)!important; border-color: var(--nvm); background: linear-gradient(135deg, var(--nvn) 0%, var(--nvn) 50%, var(--nvss) 100%)}
+.bodynatale .bottone-figo::before {background-color: var(--nvm)}
+.bodynatale .bottone-figo1 {color: var(--nvc)!important; border-color: var(--nvm); background: linear-gradient(135deg, var(--nvss) 0%, var(--nvn) 50%, var(--nvn) 100%)}
+.bodynatale .bottone-figo1::before {background-color: var(--nvm)}
+.bodynatale .ultimitopic td, .bodynatale .tabella-tf td {background:linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, rgba(148, 164, 157, 0.05) 100%)}
+.bodynatale .no-topforum-message {color: var(--ncc); background: linear-gradient(135deg, var(--nvn) 0%, var(--nvss) 50%, var(--nvss) 100%); outline-color: var(--nvc); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3), inset 0 0 0 1px rgba(148, 164, 157, 1); text-shadow: 0 0 10px rgba(148, 164, 157, 1)}
+.bodynatale .no-topforum-message::before {background-image: radial-gradient(circle, rgba(148, 164, 157, 0.15) 1px, transparent 1px)}
+.bodynatale .no-topforum-message::after {color: var(--ncc); text-shadow: 0 0 8px var(--nvc)}
+.bodynatale .topbutton .forminput {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/topforum-banner-natale.png) no-repeat!important; box-shadow: none !important}
+.bodynatale .chocorobot img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/kofi-banner-natale.png')}
+.bodynatale .disclaimer-affigeme {color:var(--ncc); background:linear-gradient(120deg, var(--nvn) 0%, var(--nvss) 50%, var(--nvn) 100%); text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3), 0 0 20px var(--nvc); border-color: var(--nvc)}
+.bodynatale .nessunocit, .bodynatale #team-zone .team-zone-title {color:var(--ncc); background:linear-gradient(120deg, var(--nvn) 0%, var(--nvss) 50%, var(--nvn) 100%)!important; text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3), 0 0 20px var(--nvc); border-color: var(--nvm)}
+.bodynatale .tag a {color: var(--nvn)}
+.bodynatale .tag .mainbg {background-color: var(--nvss); border-color: var(--nvn)}
+.bodynatale .tag .list {border-color: var(--nvc)}
+.bodynatale .tag .when, .bodynatale .hb-time {color: var(--nvn); background: var(--nvm); border-color: var(--nvn); filter: drop-shadow(2px 2px 0 rgba(0, 0, 0, 0.3))}
+.bodynatale .tag a b {color: var(--nvn)}
+.bodynatale .tag li:nth-child(odd) {color: var(--nvn); border-color: var(--nvm); background: var(--nvc)!important}
+.bodynatale .tag li:nth-child(even) {color: var(--nvn); border-color: var(--nvm); background: var(--nvc)!important}
+.bodynatale .tag .ww {background:var(--nvs)}
+.bodynatale .tag .textinput {background: var(--nvc)!important; color: #000!important; border-color: var(--nvm)!important; filter: drop-shadow(4px 4px 0 rgba(0, 0, 0, 0.3)); box-shadow:none}
+.bodynatale .tag .codebuttons {background-color: var(--nvc); color: var(--nvss); border-color: var(--nvm); filter: drop-shadow(2px 4px 0 rgba(0, 0, 0, 0.3)); box-shadow:none}
+.bodynatale .tag .codebuttons:hover {border-color: var(--nvm); background-color: var(--nvm)}
+.bodynatale .ffav_tag img {border-color: var(--nvn); background: #0000}
+.bodynatale .ffav_tag {border: none!important; background: #0000!important}
+
+.bodynatale #gdr-btn {border-color: var(--nvm)}
+.bodynatale #gdr-btn:hover {border-color: var(--nvm)}
+.bodynatale #gdr-btn:hover .gdr-btn-img {filter: saturate(0.8) brightness(1.0)}
+.bodynatale #gdr-btn::before, .bodynatale #gdr-btn::after, .bodynatale #gdr-btn .gdr-btn-cbr, .bodynatale #gdr-btn .gdr-btn-cbl {border-color: var(--nvm)}
+.bodynatale #gdr-btn:hover::before, .bodynatale #gdr-btn:hover::after, .bodynatale #gdr-btn:hover .gdr-btn-cbr, .bodynatale #gdr-btn:hover .gdr-btn-cbl {border-color: var(--nvm)}
+.bodynatale .gdr-btn-img {filter: saturate(0.7) brightness(0.9) blur(2px)}
+.bodynatale .gdr-btn-grid {background-image: linear-gradient(rgba(37, 52, 47, 0.15) 1px, transparent 1px), linear-gradient(90deg, rgba(37, 52, 47, 0.15) 1px, transparent 1px)}
+.bodynatale .gdr-btn-fade {background: linear-gradient(to right, rgba(37, 52, 47, 0.75) 0%, transparent 28%, transparent 72%, rgba(37, 52, 47, 0.75) 100%), linear-gradient(to bottom, rgba(37, 52, 47, 0.25) 0%, transparent 50%)}
+.bodynatale .gdr-btn-bordino {background:rgba(37, 52, 47, 0.82)!important; border-top: 1px solid rgba(37, 52, 47, 0.4)!important}
+.bodynatale .gdr-btn-bordino span {color: var(--nvc)!important}
+.bodynatale .gdr-btn-bordino i {color: var(--nvm)!important}
+
+.bodynatale *::-webkit-scrollbar-track-piece {background: var(--nvc)}
+.bodynatale *::-webkit-scrollbar-thumb {background: var(--nvn)}
+.bodynatale::-webkit-scrollbar-track-piece {background: var(--nvc)}
+.bodynatale::-webkit-scrollbar-thumb {background: var(--nvn)}
+.bodynatale *::selection {background: var(--nvm); color:var(--ncc)}
+.bodynatale *::-moz-selection {background: var(--nvm); color:var(--ncc)}
+.bodynatale *::-webkit-selection {background: var(--nvm); color:var(--ncc)}
+
+.bodynatale .tabs a {color: var(--ncc); background: var(--nvm); border-color: var(--nvss)}
+.bodynatale .tabs a:hover, .bodynatale .tabs .current a {color: var(--nvss); background: var(--nvc); border-color: var(--nvn)}
+.bodynatale .tabs.left.no_rotate a {border-color: var(--nvss)}
+.bodynatale .tabs.right.no_rotate a {border-color: var(--nvss)}
+.bodynatale .tabs.bottom a {background: var(--nvm); border-color: var(--nvss)}
+.bodynatale .tabs.bottom a:hover {background: var(--nvc)}
+.bodynatale .tabs.left a {background: var(--nvm)}
+.bodynatale .tabs.left a:hover {background: var(--nvc)}
+.bodynatale #tab_r1 a, .bodynatale #tab_r2 a, .bodynatale #tab_r3 a, .bodynatale #tab_r4 a, .bodynatale #tab_r5 a {color: var(--nvn); background: var(--nvm); border-color: var(--nvss)}
+.bodynatale #tab_r1 a:before {color: var(--nvn)}
+.bodynatale #tab_r2 a:before {color: var(--nvn)}
+.bodynatale #tab_r3 a:before {color: var(--nvn)}
+.bodynatale #tab_r4 a:before {color: var(--nvn)}
+.bodynatale #tab_r5 a:before {color: var(--nvn)}
+.bodynatale #tab_r1 a:hover, .bodynatale #tab_r2 a:hover, .bodynatale #tab_r3 a:hover, .bodynatale #tab_r4 a:hover, .bodynatale #tab_r5 a:hover {color: var(--nvn); background: var(--nvm); border-color: var(--nvss)}
+
+
+
+/* Container sezioni */
+.bodynatale #c65073496, .bodynatale #c65073567, .bodynatale #c65114234, .bodynatale #c65073571 {background:var(--nvs)}
+
+/* .zz di tutti i container */
+.bodynatale #c65073496 .zz, .bodynatale #c65073567 .zz, .bodynatale #c65114234 .zz, .bodynatale #c65073571 .zz {background: var(--nvss)}
+
+/* link .zz di tutti i container */
+.bodynatale #c65073496 .zz a, .bodynatale #c65073567 .zz a, .bodynatale #c65114234 .zz a, .bodynatale #c65073571 .zz a {color: var(--ncc)}
+
+/* .when(con::before "del") — Benvenuti, Stelle Cadenti, Off-topic&Capitoli */
+.bodynatale #f65073496 .when, .bodynatale #f65112406 .when,
+.bodynatale #f65114234 .when, .bodynatale #f65114235 .when, .bodynatale #f65114237 .when,
+.bodynatale #f65073571 .when, .bodynatale #f65073572 .when, .bodynatale #f65111597 .when {color:var(--ncc)}
+.bodynatale #f65073496 .when::before, .bodynatale #f65112406 .when::before,
+.bodynatale #f65114234 .when::before, .bodynatale #f65114235 .when::before, .bodynatale #f65114237 .when::before,
+.bodynatale #f65073571 .when::before, .bodynatale #f65073572 .when::before, .bodynatale #f65111597 .when::before {color:var(--ncc)!important}
+
+/* .web a "spenti" su nero — continenti, resto del mondo, mercante/oltre */
+.bodynatale #c65073567 .web a,
+.bodynatale #f65114234 .web a, .bodynatale #f65114235 .web a,
+.bodynatale #f65114236 .web a,
+.bodynatale #f65114237 .web a, .bodynatale #f65114238 .web a,
+.bodynatale #f65118748 .web a, .bodynatale #f65118788 .web a {color:var(--bianco); background:var(--nero)}
+
+.bodynatale #c65073496 .who span, .bodynatale #c65073567 .who span, .bodynatale #c65114234 .who span, .bodynatale #c65073571 .who span {color: var(--ncc)}
+/* .web a in hover — continenti + resto del mondo */
+.bodynatale #c65073567 .big_list >:hover .web a, .bodynatale #c65114234 .big_list >:hover .web a {background: var(--nvm); color: var(--ncc)}
+
+/* Bordo cinque di tutte le sezioni-continente/mondo */
+.bodynatale #f65073567, .bodynatale #f65073568, .bodynatale #f65073569,
+.bodynatale #f65114231, .bodynatale #f65114232, .bodynatale #f65114233,
+.bodynatale #f65114234, .bodynatale #f65114235, .bodynatale #f65114236,
+.bodynatale #f65114237, .bodynatale #f65114238,
+.bodynatale #f65118748, .bodynatale #f65118788 {border-color: var(--nvm)}
+
+/* Tutti i link-bottone delle sezioni(reg, sch, nar, sol, yor, azi, ket, van, tor, merc, au, ot, cap, spm) */
+.bodynatale .reg-button a, .bodynatale .sch-button a,
+.bodynatale .nar-button a, .bodynatale .sol-button a, .bodynatale .yor-button a,
+.bodynatale .azi-button a, .bodynatale .ket-button a, .bodynatale .van-button a,
+.bodynatale .tor-button a, .bodynatale .merc-button a, .bodynatale .au-button a,
+.bodynatale .ot-button a, .bodynatale .cap-button a, .bodynatale .spm-button a {color:var(--nvc)}
+
+/* Tutti i pulsanti pieni delle sezioni — background sette */
+.bodynatale .r-forum, .bodynatale .r-gdr,
+.bodynatale .s-app, .bodynatale .s-con, .bodynatale .s-ina, .bodynatale .s-npc,
+.bodynatale .nar-1, .bodynatale .nar-2, .bodynatale .nar-3, .bodynatale .nar-4,
+.bodynatale .sol-1, .bodynatale .sol-2, .bodynatale .sol-3,
+.bodynatale .yor-1, .bodynatale .yor-2, .bodynatale .yor-3, .bodynatale .yor-4,
+.bodynatale .azi-1, .bodynatale .azi-2, .bodynatale .azi-3,
+.bodynatale .ket-1, .bodynatale .ket-2,
+.bodynatale .van-1, .bodynatale .van-2,
+.bodynatale .tor-1, .bodynatale .tor-2, .bodynatale .tor-3,
+.bodynatale .merc-1, .bodynatale .merc-2, .bodynatale .merc-3,
+.bodynatale .au-1, .bodynatale .au-2,
+.bodynatale .ot-nen, .bodynatale .ot-hunter,
+.bodynatale .cap-pre, .bodynatale .cap-trad,
+.bodynatale .spm-reg, .bodynatale .spm-ric, .bodynatale .spm-aff, .bodynatale .spm-gem {background:var(--nvs)}
+
+/* Tutti i pulsanti pieni delle sezioni — hover background sei */
+.bodynatale .r-forum:hover, .bodynatale .r-gdr:hover,
+.bodynatale .s-app:hover, .bodynatale .s-con:hover, .bodynatale .s-ina:hover, .bodynatale .s-npc:hover,
+.bodynatale .nar-1:hover, .bodynatale .nar-2:hover, .bodynatale .nar-3:hover, .bodynatale .nar-4:hover,
+.bodynatale .sol-1:hover, .bodynatale .sol-2:hover, .bodynatale .sol-3:hover,
+.bodynatale .yor-1:hover, .bodynatale .yor-2:hover, .bodynatale .yor-3:hover, .bodynatale .yor-4:hover,
+.bodynatale .azi-1:hover, .bodynatale .azi-2:hover, .bodynatale .azi-3:hover,
+.bodynatale .ket-1:hover, .bodynatale .ket-2:hover,
+.bodynatale .van-1:hover, .bodynatale .van-2:hover,
+.bodynatale .tor-1:hover, .bodynatale .tor-2:hover, .bodynatale .tor-3:hover,
+.bodynatale .merc-1:hover, .bodynatale .merc-2:hover, .bodynatale .merc-3:hover,
+.bodynatale .au-1:hover, .bodynatale .au-2:hover,
+.bodynatale .ot-nen:hover, .bodynatale .ot-hunter:hover,
+.bodynatale .cap-pre:hover, .bodynatale .cap-trad:hover,
+.bodynatale .spm-reg:hover, .bodynatale .spm-ric:hover, .bodynatale .spm-aff:hover, .bodynatale .spm-gem:hover {background: var(--nvss)}
+
+.bodynatale .board .skin_tbl.box_minus, .bodynatale .board .skin_tbl.box_plus, .bodynatale .stats .skin_tbl, .bodynatale .forum .skin_tbl, .bodynatale .fast.send .skin_tbl {background: transparent}
+.bodynatale .mback {background-color: var(--nvs)}
+.bodynatale .mtitle {color: var(--nvc); background: transparent !important}
+.bodynatale .title, .bodynatale .darkbar {background: var(--nvs) !important; color: var(--ncc)}
+.bodynatale .list:not(.send .list) > *, .bodynatale table.mainbg tr, .bodynatale .profile .skin_tbl {background: var(--nvm)}
+.bodynatale .list:not(.send .list) > *:nth-child(even), .bodynatale table.mainbg tr:nth-child(even) {background: var(--nvm)}
+.bodynatale .big_list > * {background: var(--nvm)}
+.bodynatale .big_list > *:nth-child(even) {background: var(--nvm)}
+.bodynatale .big_list > *:hover {background: var(--nvm)}
+.bodynatale .big_list > *:nth-child(even):hover {background: var(--nvm)}
+.bodynatale .web a {color: var(--nvss)}
+.bodynatale .big_list > *:hover .web a {color:var(--nvn)}
+.bodynatale .board .topics {background: var(--nvss); color: var(--nvc)!important}
+.bodynatale .board .replies {background: var(--nvss); color: var(--nvc)!important}
+
+.bodynatale .desc {color: var(--nvn)}
+.bodynatale .mods {color: var(--nvn)}
+.bodynatale .mods a {color: var(--nvn)}
+.bodynatale .subs {color: var(--nvn)}
+.bodynatale .subs a {color: var(--nvn)}
+.bodynatale #f_up i {color:var(--nvc)!important}
+
+
+ .bodynatale#board .skin_tbl.bottom:not(.day_user) .list li {background: var(--nvs); color: #FFF!important}
+.bodynatale#board .skin_tbl.bottom:not(.day_user) .list {color: #FFF!important}
+.bodynatale#board .stats .list > * {background: var(--nvm); color: var(--nvn)}
+.bodynatale#board .stats .mback {background-color: var(--nvs)}
+.bodynatale#board .stats a {color: var(--ncc)}
+.bodynatale#board .stats a:hover {color:var(--nvn)}
+.bodynatale#board .stats .bottom:not(.day_user) a {color:var(--ncc)}
+.bodynatale#board .stats .bottom:not(.day_user)a:hover {color:var(--nvc)}
+.bodynatale .stats .bottom:not(.day_user) .list li {background: var(--nvs)}
+.bodynatale .stats .bottom:not(.day_user) .zz > div:first-child {color: transparent}
+.bodynatale .stats .bottom:not(.day_user) .zz > div:first-child > * > * {color: var(--nvc)}
+.bodynatale .stats .bottom:not(.day_user) .zz > div:first-child > * {border-left-color: rgba(0, 0, 0, .5)}
+.bodynatale #dailyusers.dailyusers .dailyusers-member img, .bodynatale #dailyusers.dailyusers .dailyusers-member-link img {border-color: var(--nvn)!important; background: var(--nvc)!important}
+.bodynatale .ffav_stats {border-color: var(--nvn)!important; background: var(--nvc)!important}
+.bodynatale .online .aa img {border-color: var(--nvn); background-color: var(--nvc)}
+.bodynatale .online {color:var(--nvn)}
+.bodynatale .online .big_list > * {background:var(--nvm)}
+.bodynatale .online:hover {color:var(--nvn)}
+.bodynatale #top {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/topforum-button-natale.png) no-repeat center center; background-color:var(--nvs)}
+.bodynatale #top a b {color: var(--nvn)}
+.bodynatale #top span {color: transparent}
+.bodynatale #top b:after {color: var(--ncc)}
+
+.bodynatale .users li:before {color: var(--nvss)}
+.bodynatale .founder, .bodynatale .amministratore, .bodynatale .gruppo1,
+.bodynatale .moderatore, .bodynatale .gruppo2,
+.bodynatale .gruppo3, .bodynatale .gruppo4, .bodynatale .gruppo5,
+.bodynatale .gruppo6, .bodynatale .gruppo7, .bodynatale .gruppo8,
+.bodynatale .gruppo9, .bodynatale .gruppo10, .bodynatale .gruppo11,
+.bodynatale .gruppo12, .bodynatale .gruppo13,
+.bodynatale .daconvalidare, .bodynatale .member, .bodynatale .utente:not(span.utente) {background: var(--nvn)}
+
+.bodynatale .team-zone-show-suspended-members:after {color:var(--nvm)}
+.bodynatale .team-zone-content.team-zone-member-list {background-color:var(--nvs); background-image: url("https://www.transparenttextures.com/patterns/gplay.png"); border-color:var(--nvm)}
+.bodynatale .team-mate-avatar {border-color:var(--nvc)}
+.bodynatale .team-zone-inactive-tag {background-color: var(--nvc); color:var(--nvn)}
+.bodynatale .team-mate-avatar.tool-tips-info:hover:before {background:var(--nvc); color:var(--nvn)}
+.bodynatale .team-mate-avatar.tool-tips-info:hover:after {background:var(--nvc); color:var(--nvn)}
+.bodynatale .suspended-members-not-exists-toast {background:var(--nvc); border-color:var(--nvc)}
+.bodynatale .team-zone-suspended-tag {background-color: var(--nvc); color:var(--nvn)}
+.bodynatale .team-zone-recruit-banner {color: var(--nvn); background: var(--nvm)}
+.bodynatale .team-zone-recruit-banner:hover {box-shadow: 0 0 15px #00000040; background: var(--nvc)}
+.bodynatale .team-zone-recruit-banner a {color: var(--ncc)}
+
+
+
+.bodynatale .credits {background: linear-gradient(135deg, var(--nvn) 0%, var(--nvs) 50%, var(--nvn) 100%); border-top-color: var(--nvm); box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2), inset 0 0 0 1px rgba(94, 126, 113, 0.3)}
+.bodynatale .credits::before {background-image: radial-gradient(circle, rgba(94, 126, 113, 0.1) 1px, transparent 1px)}
+.bodynatale .credits-content {color: var(--nvc); text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3)}
+.bodynatale .credits a {color: var(--ncc); text-shadow: 0 0 5px rgba(94, 126, 113, 0.5)}
+.bodynatale .credits a:hover {color: var(--nvc); text-shadow: 0 0 10px var(--nvc)}
+.bodynatale .credit-separator {color: var(--nvc); text-shadow: 0 0 5px var(--nvc)}
+
+.bodynatale .hxh-trigger-icon {background: linear-gradient(135deg, var(--nvn), var(--nvs)); border-color: var(--nvc); box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5), 0 0 8px rgba(207, 146, 105, 0.3)}
+.bodynatale .hxh-trigger-icon i {color: var(--nvc)}
+.bodynatale .hxh-trigger-label {color: var(--nvc)}
+@keyframes hxh-pulse-natale {0%, 100% {box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5), 0 0 6px rgba(53, 79, 70, 0.3)} 50% {box-shadow: 0 2px 16px rgba(0, 0, 0, 0.5), 0 0 18px rgba(53, 79, 70, 0.7), 0 0 30px rgba(53, 79, 70, 0.25)}}
+.bodynatale .hxh-trigger-icon {animation-name: hxh-pulse-natale}
+.bodynatale .hxh-card {background: linear-gradient(160deg, var(--nvn) 0%, var(--nvs) 60%, var(--nvn) 100%); border-color: var(--nvc); box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(94, 126, 113, 0.12)}
+.bodynatale .hxh-card::before {background-image: radial-gradient(ellipse at 80% 0%, rgba(94, 126, 113, 0.12) 0%, transparent 60%), radial-gradient(ellipse at 20% 100%, rgba(11, 72, 107, 0.2) 0%, transparent 60%)}
+.bodynatale .hxh-corners::before, .bodynatale .hxh-corners::after {border-color: var(--nvc)}
+.bodynatale .hxh-head {border-bottom-color: rgba(94, 126, 113, 0.4); background: rgba(37, 52, 47, 0.35)}
+.bodynatale .hxh-head i {color: var(--nvc)}
+.bodynatale .hxh-head-name {color: var(--ncc)}
+.bodynatale .hxh-close {color: var(--nvc)}
+.bodynatale .hxh-close:hover {color: var(--nvc)}
+.bodynatale .hxh-time-block {border-bottom-color: rgba(94, 126, 113, 0.25)}
+.bodynatale .hxh-time-label {color: var(--ncc)}
+.bodynatale .hxh-time-display {color:var(--nvc)}
+.bodynatale .hxh-date-block {border-bottom-color: rgba(94, 126, 113, 0.25); background: rgba(37, 52, 47, 0.15)}
+.bodynatale .hxh-date-block i {color: var(--nvc)}
+.bodynatale .hxh-date-text {color: var(--ncc)}
+.bodynatale .hxh-weather-label {color: var(--nvc)}
+.bodynatale .hxh-weather-temp {color: var(--ncc)}
+.bodynatale .hxh-footer-deco {border-top-color: rgba(94, 126, 113, 0.3); background: rgba(37, 52, 47, 0.2)}
+.bodynatale .hxh-footer-line {background: linear-gradient(90deg, transparent, rgba(94, 126, 113, 0.4), transparent)}
+.bodynatale .hxh-footer-diamond {color: var(--ncc)}
+.bodynatale .ico-wrapper {border: 2px solid var(--ncc)}
+.bodynatale .ico-wrapper:hover {border: 2px solid var(--nvc)}
+.bodynatale .fb-ico, .bodynatale .telegram-ico, .bodynatale .yt-ico, .bodynatale .cerca-staff-ico, .bodynatale .hatsu-ico, .bodynatale .cap-ico, .bodynatale .spam-ico, .bodynatale .esp-ico, .bodynatale .kofi-ico {background-color: var(--nvm)}
+
+
+
+.bodynatale .cs-modal-content {background: var(--nvn)!important; border-color: var(--nvm); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale .cs-modal-title {color:var(--nvc)}
+.bodynatale .cs-modal .cs-modal-close {color:var(--nvc)}
+.bodynatale .cs-modal-body {background:var(--nvss); border-color: var(--nvm)!important}
+.bodynatale .daily-list {background:var(--nvn); border-color: var(--nvm)}
+.bodynatale .dailyusers-member-link img {border-color: var(--nvm)!important}
+.bodynatale .du-modal .daily-list>li>div.dailyusers-member-details {color:var(--nvc)}
+.bodynatale .du-modal .daily-list>li>div.dailyusers-member-details a {color:var(--nvc)}
+.bodynatale .du-modal .daily-list>li:not(:first-child) {border-top-color: var(--nvs) !important}
+.bodynatale .cs-btn {border-color: var(--nvc)!important; background-color: var(--nvs)!important; color: var(--ncc)!important}
+.bodynatale .cs-btn:hover {border-color: var(--nvc); background-color: var(--nvn)!important; color: var(--nvc)}
+
+.bodynatale .credits-container {border-color: var(--nvm)!important}
+.bodynatale .credits-container .credits-header {background-color:var(--nvs)!important}
+.bodynatale .credits-container .credits-header a {color:var(--ncc)!important}
+.bodynatale .credits-container .credits-list {background: var(--nvn)}
+.bodynatale .credits-container .credits-list .credits-script-row .credits-script-name {color: var(--nvm)!important}
+.bodynatale .credits-container .credits-list .credits-script-row .credits-author-name {color: var(--nvm)!important}
+.bodynatale .credits-container .credits-list .credits-script-row {color:var(--nvc); border-top-color: var(--nvs)!important}
+
+
+.bodynatale .annuncio .aa img {filter: var(--filnatale)!important}
+.bodynatale .annuncio.focus .aa img {filter: var(--filnatalef) !important}
+.bodynatale .importante .aa img {filter: var(--filnatale)!important} 
+.bodynatale .importante.focus .aa img {filter: var(--filnatalef) !important}
+
+.bodynatale .forum .annuncio {background: var(--nvc)}
+.bodynatale .forum .importante {background: var(--nvc)}
+.bodynatale .forum .importante:hover, .bodynatale .forum .annuncio:hover {background: var(--nvm)}
+.bodynatale .focus {color: var(--nvc)!important; background: var(--nvs) !important}
+.bodynatale .focus:nth-child(even) {color: var(--nvc)!important; background: var(--nvs) !important}
+.bodynatale .cp .focus *, .bodynatale .forum .focus *, .bodynatale .blog .focus .title2, .bodynatale .blog .focus .tags * {color: var(--nvc) !important}
+.bodynatale .focus .web a, .bodynatale .focus .desc {color: var(--nvc)!important}
+.bodynatale .focus .aa span {color: var(--nvm)!important}
+.bodynatale .aa span {color: var(--nvn)!important}
+.bodynatale .forum .yy, .bodynatale .forum .zz {color: var(--nvn)}
+
+.bodynatale .cp {color:var(--nvn)}
+.bodynatale .cp .tabs .current a {color: var(--nvs); text-shadow:none; background: var(--nvc) !important; border-color: var(--nvs)}
+.bodynatale#msg .cp .sunbar.top, .bodynatale#user .cp .sunbar.top {background: var(--nvs) !important; color:var(--nvc)}
+.bodynatale#msg .cp .sunbar, .bodynatale#user .cp .sunbar, .bodynatale#send .send .sunbar {background: var(--nvs) !important; color:var(--nvc)}
+.bodynatale .tabs2 div:hover {background: var(--nvs); color:var(--nvc)!important}
+.bodynatale .tabs2 .current div {background: var(--nvs) !important; color:var(--nvc)!important}
+
+.bodynatale #loading .top, .bodynatale .summary .list .top {color: var(--nvc); background: var(--nvs)}
+.bodynatale #loading .bottom, .bodynatale .summary .list .bottom {border-color: var(--nvs); background-color: var(--ncc); color: var(--nvn)}
+.bodynatale .fast.send .sunbar {color: var(--ncc); text-shadow: none; background: var(--nvm)!important}
+.bodynatale .fast.send .mainbg {border-color: var(--nvm); background:var(--nvc)}
+.bodynatale .fast.send .textinput {border-color: var(--nvm); background:var(--ncc)}
+.bodynatale .send .list {background:var(--nvc)!important}
+.bodynatale .send .left {color: var(--nvn)}
+.bodynatale .send .textinput {border-color: var(--nvm); background:var(--ncc); color:var(--nvs)}
+.bodynatale .sunbar {color: var(--nvc); background: var(--nvs)!important}
+.bodynatale .darkbar {color: var(--ncc); background: var(--nvm)!important}
+.bodynatale .sunbar a {color: var(--ncc)}
+.bodynatale .sunbar a:hover {color: var(--nvc)}
+.bodynatale .summary .list > * {border-top-color: var(--nvs)}
+.bodynatale .summary .nick a {color:var(--nvs)}
+
+.bodynatale .poll .list {border-color: var(--nvs); color:var(--hms); background:var(--nvn)}
+.bodynatale .poll li {background: var(--nvc)!important; color: var(--nvs)}
+.bodynatale .poll li:first-child {color:var(--nvs); background:var(--ncc)!important}
+.bodynatale .poll li.max {background:var(--nvm)!important; color:var(--ncc)}
+.bodynatale .poll li.max a {color:var(--hasc)}
+.bodynatale .bar {background: var(--nvn); color: var(--ncc) !important; border-color: var(--nvn)}
+.bodynatale .bar div {background: var(--nvm)}
+.bodynatale .max .bar {background: var(--nvn); color:var(--ncc)!important}
+.bodynatale .max .bar div {background: var(--nvs)}
+
+.bodynatale .topic:not(.comments) .post {background: var(--nvn)}
+.bodynatale .topic:not(.comments) .post .title2 {background: linear-gradient(154deg, var(--ncc), var(--nvm))}
+.bodynatale .topic:not(.comments) .color {border-color: var(--nvm); background: var(--ncc)}
+.bodynatale .topic:not(.comments, .cp) .color a {color: var(--nvn)}
+.bodynatale .topic:not(.comments, .cp) .color a:hover {color: var(--nvs)}
+.bodynatale .topic:not(.comments, .cp) .color hr {border-top-color: var(--nvn)}
+.bodynatale .topic:not(.comments, .cp) .edit {color: rgba(0, 0, 0, .25)}
+.bodynatale .topic:not(.comments, .cp) .fancytop {color:var(--nvs)}
+.bodynatale .topic:not(.comments, .cp) .fancyborder {border-color: var(--nvs) !important; background: var(--nvc); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3); color:var(--nvs)}
+.bodynatale .topic:not(.comments, .cp) .fancyborder a {color:var(--nvss)}
+.bodynatale .topic:not(.comments, .cp) .bottomborder {border-bottom-color: var(--nvn)}
+.bodynatale .topic:not(.comments, .cp) .signature {background: var(--nvc); border-color: var(--nvm); box-shadow: 1px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale .topic:not(.comments, .cp) .post .nick {color: rgba(0, 0, 0, .45)}
+.bodynatale .topic:not(.comments, .cp) .details a {color: var(--nvn)}
+.bodynatale .topic:not(.comments, .cp) .post .details {background-image:none; background-color:var(--nvs)}
+.bodynatale .topic:not(.comments, .cp) .post .avatar img {border-color: var(--nvm); background: var(--nvs)}
+.bodynatale .color mark, .bodynatale #markdiv mark {background: var(--nvs); color: var(--nvc)}
+.bodynatale .topic:not(.comments, .cp) .details > dl {color: var(--nvn)}
+.bodynatale .topic .u_rank i {color:var(--nvn)!important}
+.bodynatale .topic:not(.comments, .cp) .u_group, .bodynatale .topic:not(.comments, .cp) .u_posts, .bodynatale .topic:not(.comments, .cp) .u_reputation {background:var(--nvm); border-bottom-color: var(--nvs); color: var(--nvn)}
+.bodynatale dl.rep_pos dd a {color: var(--nvn)!important}
+.bodynatale .topic:not(.comments, .cp) .details p, .bodynatale .topic:not(.comments, .cp) .u_status {background: var(--nvm); color: var(--nvn)}
+.bodynatale .post.focus {background: var(--nvm)!important; color:var(--nvn)!important}
+
+.bodynatale .quoteentry img {box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)!important; border-color: var(--nvss)!important; background: var(--nvm)!important}
+.bodynatale [class~=code] li {background-color:rgba(0, 0, 0, .1)}
+.bodynatale [class~=code] li:nth-child(2n) {background-color:rgba(0, 0, 0, .2)}
+.bodynatale .select_code {color:var(--nvc)!important}
+.bodynatale .select_code:before {color: var(--nvc)}
+.bodynatale .select_code:after {color: var(--nvc)}
+.bodynatale .quote, .bodynatale .spoiler .code {color: var(--nvn); background: var(--nvm); border-color: var(--nvs); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale .code {color: #999; background: #505050; border-color: var(--nvn); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale .quote .quote, .bodynatale .spoiler .quote, .bodynatale .quote .spoiler .code {color: var(--nvn); background: var(--nvc)}
+.bodynatale .code .code {color: #999; background: #505050}
+.bodynatale .quote .quote .quote, .bodynatale .quote .quote .code, .bodynatale .spoiler .quote .quote, .bodynatale .spoiler .quote .code, .bodynatale .quote .spoiler .quote, .bodynatale .quote .code .code {color: var(--nvn); background: var(--nvm)}
+.bodynatale .quote .code .code, .bodynatale .spoiler .quote .code, .bodynatale .quote .quote .code {color: #999; background: #505050}
+.bodynatale .quote .quote .quote .quote, .bodynatale .quote .quote .quote .code, .bodynatale .spoiler .quote .quote .quote, .bodynatale .spoiler .quote .quote .code, .bodynatale .quote .spoiler .quote .quote, .bodynatale .quote .spoiler .quote .code, .bodynatale .quote .quote .spoiler .quote, .bodynatale .quote .quote .code .code, .bodynatale .quote .quote .quote .code {color: var(--nvn); background: var(--nvc)}
+.bodynatale .quote .quote .quote .code, .bodynatale .quote .quote .code .code, .bodynatale .quote .spoiler .quote .code, .bodynatale .spoiler .quote .quote .code, .bodynatale .quote .quote .quote .code {color: #999; background: #505050}
+.bodynatale .quote_top, .bodynatale .code_top {color: var(--nvc); background-color: var(--nvn); border-color: var(--nvs); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale .quote_top a, .bodynatale .code_top a {color: var(--nvc)!important}
+.bodynatale .quote_top a:hover, .bodynatale .code_top a:hover {color: var(--nvm)!important}
+.bodynatale .spoiler .code_top:before {color: var(--nvc)}
+.bodynatale .code_top:before {color: var(--nvc)}
+.bodynatale .code_top:after {color: #CCC}
+.bodynatale .quote .quote_top:before, .bodynatale .quote .code_top:before, .bodynatale .quote .code_top:after, .bodynatale .spoiler .quote_top:before, .bodynatale .code .code_top:before, .bodynatale .code .code_top:after {color: var(--nvc)}
+.bodynatale .quote .quote .quote_top:before, .bodynatale .quote .quote .code_top:before, .bodynatale .quote .quote .code_top:after, .bodynatale .spoiler .quote .quote_top:before, .bodynatale .spoiler .quote .code_top:before, .bodynatale .spoiler .quote .code_top:after, .bodynatale .quote .spoiler .quote_top:before, .bodynatale .quote .code .code_top:before, .bodynatale .quote .code .code_top:after {color: var(--nvc)}
+.bodynatale .quote .quote .quote .quote_top:before, .bodynatale .quote .quote .quote .code_top:before, .bodynatale .quote .quote .quote .code_top:after, .bodynatale .spoiler .quote .quote .quote_top:before, .bodynatale .spoiler .quote .quote .code_top:before, .bodynatale .spoiler .quote .quote .code_top:after, .bodynatale .quote .spoiler .quote .quote_top:before, .bodynatale .quote .spoiler .quote .code_top:before, .bodynatale .quote .spoiler .quote .code_top:after, .bodynatale .quote .quote .spoiler .quote_top:before, .bodynatale .quote .quote .code .code_top:before, .bodynatale .quote .quote .code .code_top:after, .bodynatale .quote .quote .quote .code_top:before, .bodynatale .quote .quote .quote .code_top:after {color: var(--nvc)}
+
+.bodynatale .title a {color:var(--nvc)}
+.bodynatale .inter-topics-tips-box a {color: var(--ncs)!important}
+.bodynatale .inter-topics-tips-box {color:var(--ncc)!important}
+.bodynatale li#inter-topics-tips-box {background: var(--nrm) !important}
+
+.bodynatale#msg .post {border-color: var(--nvn)!important; background-color:var(--nvn)}
+.bodynatale#msg .post .title2 {background: linear-gradient(154deg, var(--ncc), var(--nvm))}
+.bodynatale#msg .post .color {background:var(--ncc); border-color: var(--nvm)!important}
+.bodynatale#msg .color {color: var(--nvn)}
+.bodynatale#msg .post .right {color: var(--nvn)}
+.bodynatale#msg .post .nick {color:var(--nvn)}
+.bodynatale#msg .post .nick a {color: var(--nvn)}
+.bodynatale#msg .details .avatar img {border-color: var(--nvm); background-color:var(--nvn); box-shadow: 2px 3px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale#msg .u_group, .bodynatale#msg .u_posts, .bodynatale#msg .u_joined {background:var(--nvm); border-bottom-color: var(--nvn); color: var(--nvn)}
+.bodynatale#msg .mini_buttons a {color: var(--nvn)}
+.bodynatale#msg .sunbar {background-color:var(--nvm)!important; color:var(--nvn)!important}
+
+.bodynatale .profile .tabs a {color: transparent}
+.bodynatale .profile .tabs a:before {color: var(--nvn)}
+.bodynatale .profile .skin_tbl {background: transparent!important}
+.bodynatale .profile .avatar img {border-color: var(--nvm); background-color:var(--nvn)}
+.bodynatale .profile .avatar {filter: drop-shadow(2px 2px 0 rgba(0, 0, 0, 0.3))}
+.bodynatale .box_anonimo .profile .avatar::after {border-color: var(--nvs); background:var(--anonimo)}
+.bodynatale .box_online .profile .avatar::after {border-color: var(--nvs); background: var(--online)}
+.bodynatale .box_offline .profile .avatar::after {border-color: var(--nvs); background: var(--offline)}
+.bodynatale .profile .right {border-color: var(--nvn); background-color: var(--nvc); color: var(--hms); box-shadow: 4px 3px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale .profile .nick {color: var(--nvc); text-shadow: none}
+.bodynatale .profile .left {background: var(--nvn); box-shadow: 4px 3px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale .profile .left dt {color: #FFF!important; background: #282828}
+.bodynatale .profile .left > dl {background: #FFF; border-color: #282828; color: #282828}
+.bodynatale .profile .left .mini_buttons a {color: var(--nvn); background: var(--nvm)}
+.bodynatale .profile .list {border-color: var(--nvs)}
+.bodynatale .profile .right dl {background:var(--nvm)!important; color: var(--nvn)}
+.bodynatale .profile .right dl a {color: var(--nvn)}
+.bodynatale .profile .right dl:hover {background:var(--nvs)!important; color:var(--ncc)}
+.bodynatale .profile .right dl:hover a {color:var(--ncc)}
+.bodynatale .profile dl.rep_pos dd a, .bodynatale .profile dl.rep_neg dd a {color:var(--nvn)!important}
+.bodynatale .profile .mysocials-list {background-color: var(--nvm)!important}
+.bodynatale .profile .mypets-list {background-color: var(--nvm)!important}
+
+/* h3 dei due container */
+.bodynatale #gdr-tab-content h3, .bodynatale #staff-tasks-container h3 {color:var(--nvn); border-bottom-color:var(--nvn)}
+/* sezioni verdi con bordo teal — gdr-section, tasks-section, add-task-form */
+.bodynatale .gdr-section, .bodynatale .tasks-section {background:var(--nvn); border-left-color:var(--nvs)}
+.bodynatale .add-task-form {background:var(--nvn); border-left-color:var(--nvs)}
+.bodynatale .tasks-section.completed-section {background:var(--nvn); border-left-color:var(--nvs)}
+/* h4 blu delle sezioni */
+.bodynatale .gdr-section h4, .bodynatale .tasks-section h4, .bodynatale .add-task-form h4 {color:var(--nvc)}
+/* contatori */
+.bodynatale .gdr-section h4 .count, .bodynatale .tasks-section h4 .count {color:var(--ncc)}
+/* righe lista — sheets-list li, task-item */
+.bodynatale .sheets-list li {border-bottom-color:var(--nvn); background:var(--nvm)}
+.bodynatale .task-item {background:var(--nvm)}
+.bodynatale .sheets-list li:hover {background:var(--nvc); box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1)}
+.bodynatale .task-item:hover {background:var(--nvc)}
+/* titoli scuri — sheet-title, task-title */
+.bodynatale .sheet-title, .bodynatale .task-title {color:var(--nvn)}
+.bodynatale .sheet-title:hover {color:var(--nvn)}
+/* tag date/meta su verde chiaro — sheet-dates span, task-assigned */
+.bodynatale .sheet-dates span, .bodynatale .task-assigned {color:var(--nvs); background:var(--ncc)}
+/* tag su teal con testo bianco — date-modified, task-date */
+.bodynatale .date-modified, .bodynatale .task-date {background:var(--ncc)!important; color:var(--nvn)}
+.bodynatale .date-created {background:var(--ncc)!important; color: var(--nvn)}
+/* empty / loading condivisi */
+.bodynatale .empty {color:var(--ncc)}
+.bodynatale .loading {color:var(--ncc)}
+/* progress gdr */
+.bodynatale #gdr-progress {background:var(--ncc); color: var(--nvn)}
+/* input form task */
+.bodynatale .add-task-form input {border-color:var(--nvm)}
+.bodynatale .add-task-form input:focus {border-color:var(--nvm)}
+/* pulsante form task */
+.bodynatale .add-task-form button {background:var(--nvm); color:var(--nvn)}
+.bodynatale .add-task-form button:hover {background:var(--nvc)}
+/* pulsante elimina */
+.bodynatale .task-delete {background:var(--nvs); color: var(--nvc)}
+.bodynatale .task-delete:hover {background:var(--nvss)}
+
+.bodynatale #profile-tracker #tracked-list li.tracked-entity {background:var(--nvs); color:var(--nvc)}
+.bodynatale #profile-tracker #tracked-list li.tracked-entity a {color:var(--nvc)}
+.bodynatale #profile-tracker #tracked-list li.tracked-entity:hover {background:var(--nvss)}
+.bodynatale #profile-tracker li.title {color: var(--nvc)}
+
+
+.bodynatale .st-badge-1 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/1n.png')}
+.bodynatale .st-badge-2 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/2n.png')}
+.bodynatale .st-badge-3 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/3n.png')}
+.bodynatale .st-badge-4 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/4n.png')}
+.bodynatale .st-badge-5 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/5n.png')}
+.bodynatale .st-badge-6 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/6n.png')}
+.bodynatale .st-badge-7 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/7n.png')}
+.bodynatale .st-badge-8 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/8n.png')}
+.bodynatale .st-badge-9 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/9n.png')}
+.bodynatale .st-badge-10 img {content: url('https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/10n.png')}
+
+.bodynatale .pages2 a:link, .bodynatale .pages2 a:visited {color: var(--ncc) !important; text-shadow: none !important; background: var(--nvss); border-color: var(--nvss)}
+.bodynatale .pages2 a:hover {background:var(--nvn); color: var(--nvc) !important; border-color: var(--nvn)}
+.bodynatale .pages li a, .bodynatale .pages .current {color: var(--ncc); background: var(--nrmc); border-color: var(--nrmc)}
+.bodynatale .pages li a:hover {background: var(--nrs); border-color: var(--nrs)}
+.bodynatale .pages .current {color: var(--ncc); background: var(--nrmc); border-color: var(--nrmc)}
+.bodynatale .pages .jump a, .bodynatale .pages .lastpost a {color: var(--ncc); background: var(--nrmc); border-color: var(--nrmc)}
+.bodynatale .pages .jump a:hover, .bodynatale .pages .lastpost a:hover {color: var(--ncc); background: var(--nrmc); border-color: var(--nrmc)}
+.bodynatale .pages .first a, .bodynatale .pages .last a {background: var(--nrmc); border-color: var(--nrmc)}
+.bodynatale .pages .first a:hover, .bodynatale .pages .last a:hover {background: var(--nrmc); border-color: var(--nrmc)}
+
+.bodynatale .codebuttons, .bodynatale .forminput, .bodynatale .textinput {color: var(--nvs); background: var(--ncc); border-color: var(--nvm); filter: drop-shadow(2px 2px 0 rgba(0, 0, 0, 0.3)); box-shadow: inset 0 1px 0 #FFF}
+.bodynatale .textinput:focus, .bodynatale .forminput[type=text]:focus, .bodynatale .forminput[type=password]:focus {border-color: var(--nvm); box-shadow: 0 0 8px var(--hac)}
+.bodynatale .codebuttons:hover {background: var(--ncc); border-color: var(--nvm)}
+.bodynatale .sunbar .forminput {color: var(--nvs); background: var(--ncc); border-color: var(--nvs); box-shadow: none}
+.bodynatale .sunbar .forminput:hover {background: var(--ncc); border-color: var(--nvs)}
+
+.bodynatale .navsub .forminput {color: var(--nvs); background: var(--ncc); border-color: var(--nvm)}
+.bodynatale .navsub .forminput:hover, .bodynatale .navsub .forminput:focus {background: var(--ncc)}
+.bodynatale .title .forminput {color: var(--nvs); background: var(--ncc); border-color: var(--nvm)}
+.bodynatale .title .forminput:hover {background: var(--ncc)}
+.bodynatale .title input.forminput {color: var(--nvs); background:var(--ncc); border-color: var(--nvm)}
+.bodynatale .title input.forminput:hover {background: var(--ncc)}
+.bodynatale .darkbar .forminput, .bodynatale .fast.send .forminput {color: var(--nvs); background: var(--ncc); border-color: var(--nvm)}
+.bodynatale .darkbar .forminput:hover, .bodynatale .fast.send .forminput:hover {background: var(--nvm); color:var(--ncc)}
+.bodynatale .darkbar .forminput {border-color: var(--nvm) !important}
+.bodynatale .darkbar input.forminput, .bodynatale .fast.send input.forminput {background: var(--ncc); box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale .darkbar button.forminput {color: var(--nvs); background: var(--ncc); box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale .darkbar button.forminput:hover {color: var(--nvs); background: var(--ncc)}
+.bodynatale .buttons span {color: var(--ncc); background: var(--nvm); border-color: var(--nvm); filter: drop-shadow(2px 1px 0 rgba(0, 0, 0, 0.3))}
+.bodynatale .buttons span:hover {background: var(--nvs); border-color: var(--nvs)}
+body.bodynatale {--sette: var(--nvn)}
+
+.bodynatale .ff-modal {background: var(--nvn); border-color: var(--nvm); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3); color:var(--nvc)}
+.bodynatale .ff-modal .info {background:var(--ncc)!important; color:var(--nvn)!important; border-color: var(--nvm); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale .ff-modal .forminput, .bodynatale .ff-modal .codebuttons {border-color: var(--nvm)!important}
+.bodynatale summary {background:var(--nvm)!important; border-color: var(--nvn); filter: drop-shadow(3px 2px 0 rgba(0, 0, 0, 0.3)); color:var(--nvn); list-style-image: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/newsN.gif)}
+.bodynatale summary::-webkit-details-marker {background: url(https://chroniclesofabrokensky.altervista.org/wp-content/uploads/2026/09/newsN.gif); color: transparent}
+.bodynatale details[open] summary {background: var(--nvc)}
+.bodynatale details[open] {background:var(--nvn); border-color: var(--nvn); filter: drop-shadow(3px 2px 0 rgba(0, 0, 0, 0.3)); color: var(--nvc)}
+.bodynatale .rego-testo {color: var(--nvn)}
+.bodynatale .rego-testo a {color: var(--nvm)!important; font-weight:bold}
+.bodynatale .rego {border-color: var(--nvm); background: var(--ncc)}
+.bodynatale .rego:before {color: var(--nvc)}
+
+.bodynatale #bgr-bubble {background:var(--nrs); color: var(--ncc); border: 2px solid var(--ncc)}
+.bodynatale #bgr-card {background: linear-gradient(135deg, var(--nrm) 0%, var(--nrs) 100%); border-top: 3px solid var(--ncc); border-bottom: 3px solid var(--ncc)}
+.bodynatale #bgr-card .bgr-icon {background:var(--ncc); color: var(--nrs)}
+.bodynatale #bgr-card .bgr-title {background: var(--ncc); -webkit-background-clip: text; -webkit-text-fill-color: transparent}
+.bodynatale #bgr-card .bgr-subtitle {color: var(--ncc)}
+.bodynatale #bgr-card .bgr-name {color: var(--nvn); -webkit-text-fill-color: var(--ncs)}
+.bodynatale #bgr-card .bgr-btn {color: var(--ncc); border: 1px solid var(--ncc)}
+
+/*INIZIO KEYWORD TOOLTIPS*/
+.bodynatale .keyword_wrapper {background-color: var(--nrs)!important; border-radius: 15px; box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale .keyword_inner {background: var(--ncc); width: 500px; border-radius: 10px}
+.bodynatale .keyword_inner h3 {background: var(--nrs)!important; color: var(--ncs); border-color: var(--nrs); padding: 8px 10px 9px; font-size: 16px; font-weight: 800}
+.bodynatale a.keyword_tooltip {color:var(--nrc)!important}
+.bodynatale a.keyword_tooltip:hover {color:var(--ncs)!important}
+/*FINE KEYWORD TOOLTIPS*/
+.bodynatale #gr-modal {color:var(--hms)!important}
+.bodynatale .skin-personalizer-button::after {background-color:var(--hacc)}
+
+
+
+.bodynatale #notifications-modal .modal-title {color: var(--nvc)}
+.bodynatale #notifications-modal .avatar {border-color: var(--nvss); background: var(--nvss)}
+.bodynatale #notifications-modal .notification-image .notification-type {border-color: var(--nvss); background-color: var(--nvss)}
+.bodynatale #notifications-modal .notification-row .notification-status {background-color: #0000}
+.bodynatale #notifications-modal .notification-container:not(.readed) .notification-row, .bodynatale #notifications-empty {background: var(--ncc); border-color: var(--nvss)}
+.bodynatale #notifications-modal .notification-container:not(.readed) .notification-row:hover {background: var(--nvc); border-color: var(--nvss)}
+.bodynatale #notifications-modal .notification-row {background: var(--nvc); border-color: var(--nvss); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale #notifications-modal .notification-row:hover {background: var(--nvm)}
+.bodynatale #notifications-modal .notification-row .notification-text {color: var(--nvn)!important}
+.bodynatale .notification-container .error {color: #453F4E}
+.bodynatale #notifications-empty {box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale #notifications-modal .notification-row .dot {background: transparent}
+.bodynatale #notifications-modal .notification-container:not(.readed) .dot {background-color: var(--nvn)}
+.bodynatale #notifications-modal .notification-container:not(.readed) .notification-date, .bodynatale #notifications-empty {color: var(--nvn)}
+.bodynatale #notifications-links a {color: var(--nvc)}
+.bodynatale #notifications-modal .notification-container.readed .notification-text, .bodynatale #notifications-modal .notification-container.readed .notification-date {color: var(--nvn)!important}
+.bodynatale .notification-container .dropbtn {background: var(--nvn); box-shadow: none}
+.bodynatale .notification-container .dropbtn:hover {background-color: var(--nvss)}
+.bodynatale .notification-container .dropbtn:before {background: var(--ncc); box-shadow: 7px 0 var(--ncc), 15px 0 var(--ncc)}
+.bodynatale .notification-container .dropdown-content a {background: var(--nvss); color: var(--nvc)}
+.bodynatale .notification-container .dropdown-content a:hover {background-color: var(--nvn)}
+.bodynatale #notifications-modal .plus-button {background: var(--nvss); border-color: var(--nvm); box-shadow:none}
+.bodynatale #notifications-mode button {background: var(--nrm); border-color: var(--nrm); color: var(--ncc); box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)}
+.bodynatale #notifications-mode button.active, .bodynatale #notifications-mode button[data-mode]:hover {background: var(--nrs); color: var(--hasc)}
+.bodynatale #notifications-option-dropdown {box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3)!important}
+.bodynatale .tippy-box {background-color: var(--nvc) !important; border-color: var(--nvs)}
+.bodynatale .tippy-box>.tippy-arrow:before {border-left-color: var(--nvs) !important}
+.bodynatale .tippy-box>.tippy-arrow:before {border-bottom-color: transparent !important}
+
+/* Compleanno */
+.bodynatale #bgr-bubble {background:var(--nrs); color: var(--ncc); border: 2px solid var(--ncc)}
+.bodynatale #bgr-card {background: linear-gradient(135deg, var(--nrm) 0%, var(--nrs) 100%); border-top: 3px solid var(--ncc); border-bottom: 3px solid var(--ncc)}
+.bodynatale #bgr-card .bgr-icon {background:var(--ncc); color: var(--nrs)}
+.bodynatale #bgr-card .bgr-title {background: var(--ncc); -webkit-background-clip: text; -webkit-text-fill-color: transparent}
+.bodynatale #bgr-card .bgr-subtitle {color: var(--ncc)}
+.bodynatale #bgr-card .bgr-name {color: var(--nvn); -webkit-text-fill-color: var(--ncs)}
+.bodynatale #bgr-card .bgr-btn {color: var(--ncc); border: 1px solid var(--ncc)}
